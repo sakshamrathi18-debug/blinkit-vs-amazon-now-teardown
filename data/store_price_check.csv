@@ -1,0 +1,18 @@
+item,pack,picked_in,quick_app_price,quick_app_mrp,amazon_store_now_price,amazon_store_now_eta,amazon_store_normal_price,amazon_store_normal_delivery,quick_vs_normal,evidence_id,note
+Aashirvaad Shudh Chakki Atta,10 kg,Blinkit (Ad-labelled pick),457,499,449,within 12 mins,,,Blinkit 8 dearer than store listing,s0237,store listing is the Now offer; MRP 499 on both
+Aashirvaad Shudh Chakki Atta,5 kg,Blinkit results (not picked),244,267,244,within 12 mins,,,equal,s0239,same price and MRP on both
+Two Brothers Khapli Wheat Flour,5 kg,Amazon Now,748,995,748,within 12 mins,748,Prime FREE delivery (date cut off); MRP 945,equal,s0233,normal-price offer shows MRP 945 and a Prime coupon (buy for 726)
+Unibic Fruit N' Nut Pound Cake,130-140 g,Amazon Now,68,75,68,within 12 mins,,,equal (only Now offer shown),s0251,
+RiteBite Max Protein Chips Cheese & Jalapeno,about 120 g,Amazon Now,112,119,112,within 12 mins,,"(smaller 45-count-price pack shows Rs70 delivery, Fri 13 Nov)",equal (only Now offer on this pack),s0253,a smaller pack on the normal listing carries a Rs70 delivery charge
+IRIS Taper Jar Candle - Berry Pop,pack of 1,Amazon Now,139,149,139,within 12 mins,149,Prime FREE delivery Wed 11 Nov,"normal 10 dearer, 7 days slower",s0249,normal listing adds 5% cashback
+Vicks Cough Syrup (Dry & Chesty),100 ml,Blinkit and Amazon Now,99,121,99,within 12 mins,99.22,FREE delivery Fri 6 Nov on Rs199 pharmacy orders,equal,s0259,pharmacy seller listing needs Rs199 of pharmacy items for free delivery
+Vicks Cough Drops Double Power,bag of 25,Blinkit and Amazon Now,50,50,47,within 12 mins,99,FREE delivery Fri 13 Nov (Prime),"normal 52 dearer, 9 days slower",s0261,normal offer shows MRP 150 vs Now MRP 50; Blinkit Rs50 vs Now Rs47
+Portronics Adapto 20 Type C 20W Adapter,20 W,Blinkit and Amazon Now,301,1499,301,within 12 mins,301,"Prime Tomorrow, 5 Nov",equal; 1-day delivery at the same price,s0263,normal listing adds 5% cashback on Bazaar items
+Vicks VapoRub Classic,50 ml,Blinkit (Ad) and Amazon Now,160,199,139,within 12 mins,139,FREE delivery Wed 11 Nov,Blinkit 21 dearer; normal equals Now,s0267,normal listing MRP 170 vs Now MRP 199
+"Britannia Cakes Fudge It Chocolate Brownie (extra example, not in baskets)",120 g,none,,,63,within 12 mins,120,FREE delivery Tue 17 Nov,"normal 57 dearer, 12 days slower",s0243,clearest same-listing example: Now 63 vs one-time 120
+Britannia Double Choco Chip Pound Cake,250 g,Blinkit,189,260,,,,,not found on store,s0243,store search returned other Britannia cakes only
+Party Propz LED Balloons (Multicolour),1 pack,Blinkit,179,399,,,,,no like-for-like,s0245,"store has Party Propz set of 25 at Rs351 (MRP 903), Prime delivery Wed 11 Nov; different pack"
+Propcon Metallic Party Balloons,25 pcs,Amazon Now,78,125,,,,,not tested,s0247,"the store search box turned my query into 'popcorn metallic ...', so this lookup is invalid"
+Red Rock Deli Popped Chips (Buldak),,Blinkit,48,60,,,,,not found on store,s0255,store showed other popped chips
+Mars Edge of Desire Lip Liner,1.4 g,Amazon Now,69,,,,,,not found on store,s0257,store showed e.l.f. and Plum liners
+WAAN Multicolour Pixel Light 20 m,20 m,Blinkit,129,599,,,,,not found on store,s0265,store showed other string lights

@@ -1,0 +1,674 @@
+timestamp,action,detail,result
+2026-11-04T18:51:27,cold-open,blinkit,am_total_ms=500
+2026-11-04T18:51:30,capture,s0001 blinkit blinkit home (cold open),ok
+2026-11-04T18:51:56,cold-open,amazon,am_total_ms=1537
+2026-11-04T18:51:59,capture,s0002 amazon amazon home (cold open),ok
+2026-11-04T18:52:37,cold-open,blinkit,am_total_ms=520
+2026-11-04T18:52:40,capture,s0003 blinkit blinkit home (cold open),ok
+2026-11-04T18:52:54,cold-open,amazon,am_total_ms=1198
+2026-11-04T18:52:57,capture,s0004 amazon amazon home (cold open),ok
+2026-11-04T18:53:12,delete,s0004,payment page showing saved bank account digits
+2026-11-04T18:53:21,back,amazon,ok
+2026-11-04T18:53:26,capture,s0005 amazon ,ok
+2026-11-04T18:56:58,cold-open,blinkit,am_total_ms=435
+2026-11-04T18:57:01,capture,s0006 blinkit blinkit home (cold open),ok
+2026-11-04T18:57:13,cold-open,amazon,am_total_ms=1341
+2026-11-04T18:57:16,capture,s0007 amazon amazon home (cold open),ok
+2026-11-04T18:57:33,capture,s0008 amazon ,ok
+2026-11-04T18:57:53,tap,"amazon 1000,1308 text~close",ok
+2026-11-04T18:58:03,capture,s0009 amazon ,ok
+2026-11-04T18:58:28,cold-open,blinkit,am_total_ms=455
+2026-11-04T18:58:31,capture,"s0010 blinkit Blinkit home, cold open 1 (first screen)",ok
+2026-11-04T18:58:31,swipe,blinkit up 1100px,ok
+2026-11-04T18:58:36,capture,s0011 blinkit Blinkit home scroll (cold open 1),ok
+2026-11-04T18:58:36,swipe,blinkit up 1100px,ok
+2026-11-04T18:58:40,capture,s0012 blinkit Blinkit home scroll (cold open 1),ok
+2026-11-04T18:58:41,swipe,blinkit up 1100px,ok
+2026-11-04T18:58:45,capture,s0013 blinkit Blinkit home scroll (cold open 1),ok
+2026-11-04T18:58:45,swipe,blinkit up 1100px,ok
+2026-11-04T18:58:49,capture,s0014 blinkit Blinkit home scroll (cold open 1),ok
+2026-11-04T18:58:50,swipe,blinkit up 1100px,ok
+2026-11-04T18:58:54,capture,s0015 blinkit Blinkit home scroll (cold open 1),ok
+2026-11-04T18:58:54,swipe,blinkit up 1100px,ok
+2026-11-04T18:58:58,capture,s0016 blinkit Blinkit home scroll (cold open 1),ok
+2026-11-04T18:58:59,swipe,blinkit up 1100px,ok
+2026-11-04T18:59:03,capture,s0017 blinkit Blinkit home scroll (cold open 1),ok
+2026-11-04T18:59:03,swipe,blinkit up 1100px,ok
+2026-11-04T18:59:07,capture,s0018 blinkit Blinkit home scroll (cold open 1),ok
+2026-11-04T18:59:08,swipe,blinkit up 1100px,ok
+2026-11-04T18:59:12,capture,s0019 blinkit Blinkit home scroll (cold open 1),ok
+2026-11-04T18:59:22,cold-open,blinkit,am_total_ms=528
+2026-11-04T18:59:25,capture,"s0020 blinkit Blinkit home, cold open 2 (first screen)",ok
+2026-11-04T18:59:36,cold-open,blinkit,am_total_ms=500
+2026-11-04T18:59:39,capture,"s0021 blinkit Blinkit home, cold open 3 (first screen)",ok
+2026-11-04T19:00:25,cold-open,amazon,am_total_ms=1321
+2026-11-04T19:00:29,capture,"s0022 amazon Amazon home, cold open 1 (first screen)",ok
+2026-11-04T19:00:42,tap,"amazon 1000,1308 text~close",ok
+2026-11-04T19:00:53,capture,s0023 amazon Amazon home after popup closed (cold open 1),ok
+2026-11-04T19:00:53,swipe,amazon up 1100px,ok
+2026-11-04T19:00:58,capture,s0024 amazon Amazon home scroll (cold open 1),ok
+2026-11-04T19:00:59,swipe,amazon up 1100px,ok
+2026-11-04T19:01:03,capture,s0025 amazon Amazon home scroll (cold open 1),ok
+2026-11-04T19:01:04,swipe,amazon up 1100px,ok
+2026-11-04T19:01:08,capture,s0026 amazon Amazon home scroll (cold open 1),ok
+2026-11-04T19:01:09,swipe,amazon up 1100px,ok
+2026-11-04T19:01:13,capture,s0027 amazon Amazon home scroll (cold open 1),ok
+2026-11-04T19:01:14,swipe,amazon up 1100px,ok
+2026-11-04T19:01:18,capture,s0028 amazon Amazon home scroll (cold open 1),ok
+2026-11-04T19:01:19,swipe,amazon up 1100px,ok
+2026-11-04T19:01:23,capture,s0029 amazon Amazon home scroll (cold open 1),ok
+2026-11-04T19:01:24,swipe,amazon up 1100px,ok
+2026-11-04T19:01:29,capture,s0030 amazon Amazon home scroll (cold open 1),ok
+2026-11-04T19:01:29,swipe,amazon up 1100px,ok
+2026-11-04T19:01:35,capture,s0031 amazon Amazon home scroll (cold open 1),ok
+2026-11-04T19:01:36,swipe,amazon up 1100px,ok
+2026-11-04T19:01:41,capture,s0032 amazon Amazon home scroll (cold open 1),ok
+2026-11-04T19:01:53,cold-open,amazon,am_total_ms=1320
+2026-11-04T19:01:56,capture,"s0033 amazon Amazon home, cold open 2 (first screen)",ok
+2026-11-04T19:02:07,cold-open,amazon,am_total_ms=1525
+2026-11-04T19:02:11,capture,"s0034 amazon Amazon home, cold open 3 (first screen)",ok
+2026-11-04T19:02:28,cold-open,amazon,am_total_ms=1383
+2026-11-04T19:02:31,capture,"s0035 amazon Amazon home, cold open 4 (before opening Now)",ok
+2026-11-04T19:02:38,tap,"amazon 369,247 text~Now",REFUSED: label 'T&C apply'
+2026-11-04T19:02:53,tap,"amazon 369,247 text~Now",REFUSED: label 'T&C apply'
+2026-11-04T19:03:03,capture,s0036 amazon Amazon home state check,ok
+2026-11-04T19:03:57,tap,"amazon 369,247 text~Now",ok
+2026-11-04T19:04:07,capture,s0037 amazon Amazon Now landing (first screen),ok
+2026-11-04T19:04:19,tap,"amazon 540,1110 ",ok
+2026-11-04T19:04:28,capture,"s0038 amazon Amazon Now home (first screen, popup closed)",ok
+2026-11-04T19:04:32,swipe,amazon up 1100px,ok
+2026-11-04T19:04:37,capture,s0039 amazon Amazon Now home scroll,ok
+2026-11-04T19:04:37,swipe,amazon up 1100px,ok
+2026-11-04T19:04:42,capture,s0040 amazon Amazon Now home scroll,ok
+2026-11-04T19:04:43,swipe,amazon up 1100px,ok
+2026-11-04T19:04:47,capture,s0041 amazon Amazon Now home scroll,ok
+2026-11-04T19:04:48,swipe,amazon up 1100px,ok
+2026-11-04T19:04:52,capture,s0042 amazon Amazon Now home scroll,ok
+2026-11-04T19:04:53,swipe,amazon up 1100px,ok
+2026-11-04T19:04:57,capture,s0043 amazon Amazon Now home scroll,ok
+2026-11-04T19:04:58,swipe,amazon up 1100px,ok
+2026-11-04T19:05:04,capture,s0044 amazon Amazon Now home scroll,ok
+2026-11-04T19:05:04,swipe,amazon up 1100px,ok
+2026-11-04T19:05:09,capture,s0045 amazon Amazon Now home scroll,ok
+2026-11-04T19:05:10,swipe,amazon up 1100px,ok
+2026-11-04T19:05:15,capture,s0046 amazon Amazon Now home scroll,ok
+2026-11-04T19:05:16,swipe,amazon up 1100px,ok
+2026-11-04T19:05:21,capture,s0047 amazon Amazon Now home scroll,ok
+2026-11-04T19:06:03,cold-open,blinkit,am_total_ms=534
+2026-11-04T19:06:06,capture,s0048 blinkit Blinkit home (explorer start),ok
+2026-11-04T19:06:17,tap,"blinkit 190,1200 ",ok
+2026-11-04T19:06:28,capture,s0049 blinkit Blinkit top tile: Diwali decor listing,ok
+2026-11-04T19:06:42,tap,"blinkit 597,601 text~^ADD",ok
+2026-11-04T19:06:52,capture,s0050 blinkit Blinkit after ADD (first item),ok
+2026-11-04T19:07:13,capture,s0051 blinkit Blinkit listing after un-wishlisting my mis-tap,ok
+2026-11-04T19:07:28,tap,"blinkit 569,2029 text~ADD",REFUSED: label 'Add to wishlist'
+2026-11-04T19:07:42,capture,s0052 blinkit dbg,ok
+2026-11-04T19:08:02,tap,"blinkit 569,2029 text~ADD",ok
+2026-11-04T19:08:11,capture,s0053 blinkit Blinkit after ADD (Multicolour pixel light Rs129),ok
+2026-11-04T19:08:20,tap,"blinkit 537,2227 text~^View cart",ok
+2026-11-04T19:08:29,capture,s0054 blinkit Blinkit cart (explorer),ok
+2026-11-04T19:08:45,swipe,blinkit up 1000px,ok
+2026-11-04T19:08:50,capture,s0055 blinkit Blinkit checkout scroll (explorer),ok
+2026-11-04T19:08:50,swipe,blinkit up 1000px,ok
+2026-11-04T19:08:55,capture,s0056 blinkit Blinkit checkout scroll (explorer),ok
+2026-11-04T19:08:55,swipe,blinkit up 1000px,ok
+2026-11-04T19:08:59,capture,s0057 blinkit Blinkit checkout scroll (explorer),ok
+2026-11-04T19:09:10,swipe,blinkit down 1000px,ok
+2026-11-04T19:09:11,swipe,blinkit down 1000px,ok
+2026-11-04T19:09:13,swipe,blinkit down 1000px,ok
+2026-11-04T19:09:17,tap,"blinkit 879,681 text~Decrease quantity",ok
+2026-11-04T19:09:27,capture,s0058 blinkit Blinkit after removing item,ok
+2026-11-04T19:09:51,cold-open,amazon,am_total_ms=1327
+2026-11-04T19:09:54,capture,s0059 amazon Amazon home (explorer start),ok
+2026-11-04T19:10:06,tap,"amazon 369,247 text~Now",ok
+2026-11-04T19:10:16,capture,s0060 amazon Amazon Now landing (explorer),ok
+2026-11-04T19:10:19,tap,"amazon 540,1110 ",ok
+2026-11-04T19:10:28,capture,s0061 amazon Amazon Now home (explorer),ok
+2026-11-04T19:10:41,tap,"amazon 540,1000 ",ok
+2026-11-04T19:10:51,capture,s0062 amazon Amazon Now hero banner destination,ok
+2026-11-04T19:11:00,swipe,amazon up 1000px,ok
+2026-11-04T19:11:05,capture,s0063 amazon Amazon Now Beauty Store scroll,ok
+2026-11-04T19:11:06,swipe,amazon up 1000px,ok
+2026-11-04T19:11:10,capture,s0064 amazon Amazon Now Beauty Store scroll,ok
+2026-11-04T19:11:11,swipe,amazon up 1000px,ok
+2026-11-04T19:11:15,capture,s0065 amazon Amazon Now Beauty Store scroll,ok
+2026-11-04T19:11:34,tap,"amazon 929,1718 ",ok
+2026-11-04T19:11:43,capture,s0066 amazon Amazon Now after + on Mars lip liner Rs69,ok
+2026-11-04T19:11:54,tap,"amazon 862,2223 text~Proceed",ok
+2026-11-04T19:12:04,capture,s0067 amazon Amazon Now after Proceed,ok
+2026-11-04T19:12:13,swipe,amazon up 900px,ok
+2026-11-04T19:12:17,capture,s0068 amazon Amazon Now checkout scroll (explorer),ok
+2026-11-04T19:12:17,swipe,amazon up 900px,ok
+2026-11-04T19:12:21,capture,s0069 amazon Amazon Now checkout scroll (explorer),ok
+2026-11-04T19:12:36,swipe,amazon up 800px,ok
+2026-11-04T19:12:40,capture,s0070 amazon Amazon Now checkout scroll (explorer),ok
+2026-11-04T19:12:41,swipe,amazon up 800px,ok
+2026-11-04T19:12:45,capture,s0071 amazon Amazon Now checkout scroll (explorer),ok
+2026-11-04T19:12:46,swipe,amazon up 800px,ok
+2026-11-04T19:12:50,capture,s0072 amazon Amazon Now checkout scroll (explorer),ok
+2026-11-04T19:13:00,swipe,amazon down 800px,ok
+2026-11-04T19:13:02,swipe,amazon down 800px,ok
+2026-11-04T19:13:04,swipe,amazon down 800px,ok
+2026-11-04T19:13:08,tap,"amazon 691,1195 text~Decrease quantity",ok
+2026-11-04T19:13:17,capture,s0073 amazon Amazon Now after removing item,ok
+2026-11-04T19:13:34,cold-open,blinkit,am_total_ms=445
+2026-11-04T19:13:37,capture,s0074 blinkit Blinkit home (exact item start),ok
+2026-11-04T19:13:48,search,blinkit amul taaza milk 500ml,ok
+2026-11-04T19:13:56,capture,s0075 blinkit Blinkit search results: amul taaza milk 500ml,ok
+2026-11-04T19:14:07,back,blinkit,ok
+2026-11-04T19:14:12,capture,s0076 blinkit Blinkit search results (keyboard hidden): amul taaza milk 500ml,ok
+2026-11-04T19:14:13,swipe,blinkit up 1000px,ok
+2026-11-04T19:14:19,capture,s0077 blinkit Blinkit search results scroll,ok
+2026-11-04T19:14:19,swipe,blinkit up 1000px,ok
+2026-11-04T19:14:25,capture,s0078 blinkit Blinkit search results scroll,ok
+2026-11-04T19:14:42,swipe,blinkit down 1000px,ok
+2026-11-04T19:14:44,swipe,blinkit down 1000px,ok
+2026-11-04T19:14:46,swipe,blinkit down 1000px,ok
+2026-11-04T19:14:51,tap,"blinkit 628,1302 text~ADD",ok
+2026-11-04T19:14:58,capture,s0079 blinkit Blinkit after ADD (Amul Gold 500ml),ok
+2026-11-04T19:15:19,tap,"blinkit 396,2053 text~ADD",ok
+2026-11-04T19:15:27,capture,s0080 blinkit Blinkit after ADD (Amul Taaza 200ml Rs17),ok
+2026-11-04T19:15:37,tap,"blinkit 540,1356 ",ok
+2026-11-04T19:15:47,capture,s0081 blinkit Blinkit search results with item in cart,ok
+2026-11-04T19:16:02,swipe,blinkit up 1000px,ok
+2026-11-04T19:16:07,capture,s0082 blinkit Blinkit checkout scroll (exact item),ok
+2026-11-04T19:16:08,swipe,blinkit up 1000px,ok
+2026-11-04T19:16:13,capture,s0083 blinkit Blinkit checkout scroll (exact item),ok
+2026-11-04T19:16:14,swipe,blinkit up 1000px,ok
+2026-11-04T19:16:20,capture,s0084 blinkit Blinkit checkout scroll (exact item),ok
+2026-11-04T19:16:32,tap,"blinkit 537,2227 text~^View cart",ok
+2026-11-04T19:16:41,capture,s0085 blinkit Blinkit checkout (exact item),ok
+2026-11-04T19:16:42,swipe,blinkit up 1000px,ok
+2026-11-04T19:16:46,capture,s0086 blinkit Blinkit checkout scroll (exact item),ok
+2026-11-04T19:16:47,swipe,blinkit up 1000px,ok
+2026-11-04T19:16:51,capture,s0087 blinkit Blinkit checkout scroll (exact item),ok
+2026-11-04T19:16:51,swipe,blinkit up 1000px,ok
+2026-11-04T19:16:55,capture,s0088 blinkit Blinkit checkout scroll (exact item),ok
+2026-11-04T19:17:04,swipe,blinkit down 1000px,ok
+2026-11-04T19:17:06,swipe,blinkit down 1000px,ok
+2026-11-04T19:17:07,swipe,blinkit down 1000px,ok
+2026-11-04T19:17:11,tap,"blinkit 879,699 text~Decrease quantity",ok
+2026-11-04T19:17:36,cold-open,blinkit,am_total_ms=543
+2026-11-04T19:17:39,capture,s0089 blinkit Blinkit home (typo query start),ok
+2026-11-04T19:17:50,search,blinkit amull milk,ok
+2026-11-04T19:17:54,back,blinkit,ok
+2026-11-04T19:18:00,capture,s0090 blinkit Blinkit results for typo: amull milk,ok
+2026-11-04T19:18:21,cold-open,amazon,am_total_ms=1359
+2026-11-04T19:18:24,capture,s0091 amazon Amazon home (exact item start),ok
+2026-11-04T19:18:31,tap,"amazon 369,247 text~Now",ok
+2026-11-04T19:18:42,capture,s0092 amazon Amazon Now landing (exact item),ok
+2026-11-04T19:18:48,tap,"amazon 540,1110 ",ok
+2026-11-04T19:19:00,search,amazon amul taaza milk 500ml,ok
+2026-11-04T19:19:08,capture,s0093 amazon Amazon Now search results: amul taaza milk 500ml,ok
+2026-11-04T19:19:16,swipe,amazon up 1000px,ok
+2026-11-04T19:19:20,capture,s0094 amazon Amazon Now search results scroll,ok
+2026-11-04T19:19:21,swipe,amazon up 1000px,ok
+2026-11-04T19:19:25,capture,s0095 amazon Amazon Now search results scroll,ok
+2026-11-04T19:19:40,swipe,amazon down 1000px,ok
+2026-11-04T19:19:42,swipe,amazon down 1000px,ok
+2026-11-04T19:19:43,swipe,amazon down 1000px,ok
+2026-11-04T19:19:47,tap,"amazon 454,1533 ",ok
+2026-11-04T19:19:55,capture,s0096 amazon Amazon Now after + (Verka Shakti 500ml),ok
+2026-11-04T19:19:58,tap,"amazon 862,2223 text~Proceed",ok
+2026-11-04T19:20:07,capture,s0097 amazon Amazon Now checkout (exact item),ok
+2026-11-04T19:20:15,swipe,amazon down 800px,ok
+2026-11-04T19:20:17,swipe,amazon down 800px,ok
+2026-11-04T19:20:19,swipe,amazon down 800px,ok
+2026-11-04T19:20:23,tap,"amazon 691,1195 text~Decrease quantity",ok
+2026-11-04T19:20:31,capture,s0098 amazon Amazon Now cart after removal,ok
+2026-11-04T19:20:47,cold-open,amazon,am_total_ms=1187
+2026-11-04T19:20:50,capture,s0099 amazon Amazon home (typo query start),ok
+2026-11-04T19:20:54,tap,"amazon 369,247 text~Now",ok
+2026-11-04T19:21:04,tap,"amazon 540,1110 ",ok
+2026-11-04T19:21:16,search,amazon amull milk,ok
+2026-11-04T19:21:24,capture,s0100 amazon Amazon Now results for typo: amull milk,ok
+2026-11-04T19:21:54,cold-open,amazon,am_total_ms=1190
+2026-11-04T19:21:57,capture,s0101 amazon Amazon home (need_based start),ok
+2026-11-04T19:22:04,tap,"amazon 369,247 text~Now",ok
+2026-11-04T19:22:15,capture,s0102 amazon Amazon Now landing (need_based),ok
+2026-11-04T19:22:20,search,amazon cold and cough,ok
+2026-11-04T19:22:28,capture,s0103 amazon Amazon Now results: cold and cough,ok
+2026-11-04T19:22:29,swipe,amazon up 1000px,ok
+2026-11-04T19:22:33,capture,s0104 amazon Amazon Now results scroll (cold and cough),ok
+2026-11-04T19:22:34,swipe,amazon up 1000px,ok
+2026-11-04T19:22:38,capture,s0105 amazon Amazon Now results scroll (cold and cough),ok
+2026-11-04T19:22:38,swipe,amazon up 1000px,ok
+2026-11-04T19:22:42,capture,s0106 amazon Amazon Now results scroll (cold and cough),ok
+2026-11-04T19:23:13,cold-open,blinkit,am_total_ms=523
+2026-11-04T19:23:16,capture,s0107 blinkit Blinkit home (need_based start),ok
+2026-11-04T19:23:26,search,blinkit cold and cough,ok
+2026-11-04T19:23:30,back,blinkit,ok
+2026-11-04T19:23:44,capture,s0108 blinkit Blinkit results: cold and cough,ok
+2026-11-04T19:23:45,swipe,blinkit up 1000px,ok
+2026-11-04T19:23:58,capture,s0109 blinkit Blinkit results scroll (cold and cough),ok
+2026-11-04T19:23:59,swipe,blinkit up 1000px,ok
+2026-11-04T19:24:04,capture,s0110 blinkit Blinkit results scroll (cold and cough),ok
+2026-11-04T19:24:05,swipe,blinkit up 1000px,ok
+2026-11-04T19:24:10,capture,s0111 blinkit Blinkit results scroll (cold and cough),ok
+2026-11-04T19:24:53,cold-open,blinkit,am_total_ms=478
+2026-11-04T19:24:56,capture,s0112 blinkit Blinkit home (weekly_topup start),ok
+2026-11-04T19:25:07,search,blinkit milk,ok
+2026-11-04T19:25:19,search,blinkit bread,ok
+2026-11-04T19:25:27,capture,s0113 blinkit Blinkit results: bread (after clearing milk),ok
+2026-11-04T19:25:45,search,blinkit milk,ok
+2026-11-04T19:25:49,back,blinkit,ok
+2026-11-04T19:25:54,capture,s0114 blinkit Blinkit results: milk,ok
+2026-11-04T19:25:57,tap,"blinkit 279,1690 text~ADD",ok
+2026-11-04T19:26:08,capture,s0115 blinkit Blinkit after ADD (milk),ok
+2026-11-04T19:26:16,search,blinkit bread,ok
+2026-11-04T19:26:20,back,blinkit,ok
+2026-11-04T19:26:26,capture,s0116 blinkit Blinkit results: bread,ok
+2026-11-04T19:26:30,tap,"blinkit 977,1669 text~ADD",ok
+2026-11-04T19:26:37,capture,s0117 blinkit Blinkit after ADD (bread),ok
+2026-11-04T19:26:39,back,blinkit,ok
+2026-11-04T19:26:44,capture,s0118 blinkit Blinkit results: eggs,ok
+2026-11-04T19:26:48,tap,"blinkit 977,1669 text~ADD",ok
+2026-11-04T19:26:55,capture,s0119 blinkit Blinkit after ADD (eggs),ok
+2026-11-04T19:26:58,back,blinkit,ok
+2026-11-04T19:27:04,capture,s0120 blinkit Blinkit results: onions,ok
+2026-11-04T19:27:07,tap,"blinkit 977,1669 text~ADD",ok
+2026-11-04T19:27:14,capture,s0121 blinkit Blinkit after ADD (onions),ok
+2026-11-04T19:27:17,back,blinkit,ok
+2026-11-04T19:27:22,capture,s0122 blinkit Blinkit results: bananas,ok
+2026-11-04T19:27:26,tap,"blinkit 977,1669 text~ADD",ok
+2026-11-04T19:27:33,capture,s0123 blinkit Blinkit after ADD (bananas),ok
+2026-11-04T19:27:35,back,blinkit,ok
+2026-11-04T19:27:40,capture,s0124 blinkit Blinkit results: atta,ok
+2026-11-04T19:27:44,tap,"blinkit 977,1669 text~ADD",ok
+2026-11-04T19:27:51,capture,s0125 blinkit Blinkit after ADD (atta),ok
+2026-11-04T19:28:07,tap,"blinkit 540,1275 ",ok
+2026-11-04T19:28:16,capture,s0126 blinkit Blinkit state after closing sheet,ok
+2026-11-04T19:28:35,search,blinkit bread,ok
+2026-11-04T19:28:39,back,blinkit,ok
+2026-11-04T19:28:44,capture,s0127 blinkit Blinkit results: bread,ok
+2026-11-04T19:28:48,tap,"blinkit 279,1690 plain ADD",ok
+2026-11-04T19:28:58,capture,s0128 blinkit Blinkit after ADD (bread),ok
+2026-11-04T19:29:05,search,blinkit eggs,ok
+2026-11-04T19:29:09,back,blinkit,ok
+2026-11-04T19:29:23,capture,s0129 blinkit Blinkit results: eggs,ok
+2026-11-04T19:29:47,back,blinkit,ok
+2026-11-04T19:29:51,capture,s0130 blinkit Blinkit results: onions,ok
+2026-11-04T19:30:04,search,blinkit bananas,ok
+2026-11-04T19:30:08,back,blinkit,ok
+2026-11-04T19:30:13,capture,s0131 blinkit Blinkit results: bananas,ok
+2026-11-04T19:30:16,tap,"blinkit 279,1304 plain ADD",ok
+2026-11-04T19:30:26,capture,s0132 blinkit Blinkit after ADD (bananas),ok
+2026-11-04T19:30:34,search,blinkit atta,ok
+2026-11-04T19:30:38,back,blinkit,ok
+2026-11-04T19:30:43,capture,s0133 blinkit Blinkit results: atta,ok
+2026-11-04T19:30:46,tap,"blinkit 279,1690 plain ADD",ok
+2026-11-04T19:30:57,capture,s0134 blinkit Blinkit after ADD (atta),ok
+2026-11-04T19:31:10,search,blinkit eggs,ok
+2026-11-04T19:31:15,back,blinkit,ok
+2026-11-04T19:31:21,capture,s0135 blinkit Blinkit results: eggs,ok
+2026-11-04T19:31:26,tap,"blinkit 628,1651 plain ADD",ok
+2026-11-04T19:31:36,capture,s0136 blinkit Blinkit after ADD (eggs),ok
+2026-11-04T19:31:43,search,blinkit onions,ok
+2026-11-04T19:31:48,back,blinkit,ok
+2026-11-04T19:31:52,capture,s0137 blinkit Blinkit results: onions,ok
+2026-11-04T19:31:56,tap,"blinkit 628,1651 plain ADD",ok
+2026-11-04T19:32:07,capture,s0138 blinkit Blinkit after ADD (onions),ok
+2026-11-04T19:32:17,tap,"blinkit 599,2227 text~^View cart",ok
+2026-11-04T19:32:26,capture,s0139 blinkit Blinkit checkout (weekly top-up),ok
+2026-11-04T19:32:27,swipe,blinkit up 1000px,ok
+2026-11-04T19:32:31,capture,s0140 blinkit Blinkit checkout scroll (weekly),ok
+2026-11-04T19:32:32,swipe,blinkit up 1000px,ok
+2026-11-04T19:32:36,capture,s0141 blinkit Blinkit checkout scroll (weekly),ok
+2026-11-04T19:32:37,swipe,blinkit up 1000px,ok
+2026-11-04T19:32:41,capture,s0142 blinkit Blinkit checkout scroll (weekly),ok
+2026-11-04T19:32:41,swipe,blinkit up 1000px,ok
+2026-11-04T19:32:45,capture,s0143 blinkit Blinkit checkout scroll (weekly),ok
+2026-11-04T19:33:07,swipe,blinkit down 1000px,ok
+2026-11-04T19:33:09,swipe,blinkit down 1000px,ok
+2026-11-04T19:33:10,swipe,blinkit down 1000px,ok
+2026-11-04T19:33:11,swipe,blinkit down 1000px,ok
+2026-11-04T19:33:13,swipe,blinkit down 1000px,ok
+2026-11-04T19:33:14,swipe,blinkit down 1000px,ok
+2026-11-04T19:33:18,tap,"blinkit 879,1290 text~Decrease quantity",ok
+2026-11-04T19:33:26,tap,"blinkit 879,1290 text~Decrease quantity",ok
+2026-11-04T19:33:33,tap,"blinkit 879,1308 text~Decrease quantity",ok
+2026-11-04T19:33:41,tap,"blinkit 879,1290 text~Decrease quantity",ok
+2026-11-04T19:33:48,tap,"blinkit 879,699 text~Decrease quantity",ok
+2026-11-04T19:33:56,tap,"blinkit 879,699 text~Decrease quantity",ok
+2026-11-04T19:34:10,capture,s0144 blinkit Blinkit after emptying cart,ok
+2026-11-04T19:34:51,cold-open,amazon,am_total_ms=1178
+2026-11-04T19:34:55,capture,s0145 amazon Amazon home (weekly_topup start),ok
+2026-11-04T19:35:02,tap,"amazon 369,247 text~Now",ok
+2026-11-04T19:35:12,capture,s0146 amazon Amazon Now landing (weekly_topup),ok
+2026-11-04T19:35:21,search,amazon milk,ok
+2026-11-04T19:35:29,capture,s0147 amazon Amazon Now results: milk,ok
+2026-11-04T19:35:31,tap,"amazon 459,1539 yellow +",ok
+2026-11-04T19:35:39,capture,s0148 amazon Amazon Now after + (milk),ok
+2026-11-04T19:35:45,search,amazon bread,ok
+2026-11-04T19:35:52,capture,s0149 amazon Amazon Now results: bread,ok
+2026-11-04T19:35:55,tap,"amazon 459,1491 yellow +",ok
+2026-11-04T19:36:02,capture,s0150 amazon Amazon Now after + (bread),ok
+2026-11-04T19:36:08,search,amazon eggs,ok
+2026-11-04T19:36:16,capture,s0151 amazon Amazon Now results: eggs,ok
+2026-11-04T19:36:18,tap,"amazon 459,1539 yellow +",ok
+2026-11-04T19:36:26,capture,s0152 amazon Amazon Now after + (eggs),ok
+2026-11-04T19:36:31,search,amazon onions,ok
+2026-11-04T19:36:39,capture,s0153 amazon Amazon Now results: onions,ok
+2026-11-04T19:36:42,tap,"amazon 459,1419 yellow +",ok
+2026-11-04T19:36:49,capture,s0154 amazon Amazon Now after + (onions),ok
+2026-11-04T19:36:55,search,amazon bananas,ok
+2026-11-04T19:37:02,capture,s0155 amazon Amazon Now results: bananas,ok
+2026-11-04T19:37:05,tap,"amazon 459,1419 yellow +",ok
+2026-11-04T19:37:13,capture,s0156 amazon Amazon Now after + (bananas),ok
+2026-11-04T19:37:19,search,amazon atta,ok
+2026-11-04T19:37:26,capture,s0157 amazon Amazon Now results: atta,ok
+2026-11-04T19:37:29,tap,"amazon 459,1533 yellow +",ok
+2026-11-04T19:37:36,capture,s0158 amazon Amazon Now after + (atta),ok
+2026-11-04T19:37:45,tap,"amazon 862,2223 text~Proceed",ok
+2026-11-04T19:37:56,capture,s0159 amazon Amazon Now checkout (weekly top-up),ok
+2026-11-04T19:38:11,swipe,amazon up 1000px,ok
+2026-11-04T19:38:15,capture,s0160 amazon Amazon Now checkout scroll (weekly),ok
+2026-11-04T19:38:16,swipe,amazon up 1000px,ok
+2026-11-04T19:38:20,capture,s0161 amazon Amazon Now checkout scroll (weekly),ok
+2026-11-04T19:38:21,swipe,amazon up 1000px,ok
+2026-11-04T19:38:25,capture,s0162 amazon Amazon Now checkout scroll (weekly),ok
+2026-11-04T19:38:25,swipe,amazon up 1000px,ok
+2026-11-04T19:38:29,capture,s0163 amazon Amazon Now checkout scroll (weekly),ok
+2026-11-04T19:38:30,swipe,amazon up 1000px,ok
+2026-11-04T19:38:34,capture,s0164 amazon Amazon Now checkout scroll (weekly),ok
+2026-11-04T19:38:53,swipe,amazon down 1000px,ok
+2026-11-04T19:38:55,swipe,amazon down 1000px,ok
+2026-11-04T19:38:56,swipe,amazon down 1000px,ok
+2026-11-04T19:38:57,swipe,amazon down 1000px,ok
+2026-11-04T19:38:59,swipe,amazon down 1000px,ok
+2026-11-04T19:39:00,swipe,amazon down 1000px,ok
+2026-11-04T19:39:04,tap,"amazon 662,1197 text~Decrease quantity",ok
+2026-11-04T19:39:13,tap,"amazon 681,1197 text~Decrease quantity",ok
+2026-11-04T19:39:21,tap,"amazon 681,1197 text~Decrease quantity",ok
+2026-11-04T19:39:30,tap,"amazon 681,1197 text~Decrease quantity",ok
+2026-11-04T19:39:38,tap,"amazon 691,1197 text~Decrease quantity",ok
+2026-11-04T19:39:47,tap,"amazon 691,1197 text~Decrease quantity",ok
+2026-11-04T19:39:57,capture,s0165 amazon Amazon Now after emptying cart,ok
+2026-11-04T19:40:15,cold-open,blinkit,am_total_ms=540
+2026-11-04T19:40:18,capture,s0166 blinkit Blinkit home (occasion start),ok
+2026-11-04T19:40:29,search,blinkit birthday cake,ok
+2026-11-04T19:40:34,back,blinkit,ok
+2026-11-04T19:40:39,capture,s0167 blinkit Blinkit results: birthday cake,ok
+2026-11-04T19:40:40,swipe,blinkit up 1000px,ok
+2026-11-04T19:40:45,capture,s0168 blinkit Blinkit results scroll: birthday cake,ok
+2026-11-04T19:40:46,swipe,blinkit down 1000px,ok
+2026-11-04T19:40:51,tap,"blinkit 628,1459 plain ADD",ok
+2026-11-04T19:41:01,capture,s0169 blinkit Blinkit after ADD (birthday cake),ok
+2026-11-04T19:41:08,search,blinkit balloons,ok
+2026-11-04T19:41:13,back,blinkit,ok
+2026-11-04T19:41:18,capture,s0170 blinkit Blinkit results: balloons,ok
+2026-11-04T19:41:19,swipe,blinkit up 1000px,ok
+2026-11-04T19:41:25,capture,s0171 blinkit Blinkit results scroll: balloons,ok
+2026-11-04T19:41:25,swipe,blinkit down 1000px,ok
+2026-11-04T19:41:31,tap,"blinkit 279,1651 plain ADD",ok
+2026-11-04T19:41:41,capture,s0172 blinkit Blinkit after ADD (balloons),ok
+2026-11-04T19:41:48,search,blinkit candles,ok
+2026-11-04T19:41:53,back,blinkit,ok
+2026-11-04T19:41:59,capture,s0173 blinkit Blinkit results: candles,ok
+2026-11-04T19:42:00,swipe,blinkit up 1000px,ok
+2026-11-04T19:42:07,capture,s0174 blinkit Blinkit results scroll: candles,ok
+2026-11-04T19:42:08,swipe,blinkit down 1000px,ok
+2026-11-04T19:42:13,tap,"blinkit 279,1651 plain ADD",ok
+2026-11-04T19:42:26,capture,s0175 blinkit Blinkit after ADD (candles),ok
+2026-11-04T19:42:34,search,blinkit chips,ok
+2026-11-04T19:42:38,back,blinkit,ok
+2026-11-04T19:42:44,capture,s0176 blinkit Blinkit results: chips,ok
+2026-11-04T19:42:44,swipe,blinkit up 1000px,ok
+2026-11-04T19:42:51,capture,s0177 blinkit Blinkit results scroll: chips,ok
+2026-11-04T19:42:52,swipe,blinkit down 1000px,ok
+2026-11-04T19:42:58,tap,"blinkit 279,1651 plain ADD",ok
+2026-11-04T19:43:24,capture,s0178 blinkit Blinkit after ADD (chips),ok
+2026-11-04T19:43:50,swipe,blinkit up 1000px,ok
+2026-11-04T19:44:04,capture,s0179 blinkit Blinkit checkout scroll (occasion),ok
+2026-11-04T19:44:04,swipe,blinkit up 1000px,ok
+2026-11-04T19:44:10,capture,s0180 blinkit Blinkit checkout scroll (occasion),ok
+2026-11-04T19:44:11,swipe,blinkit up 1000px,ok
+2026-11-04T19:44:24,capture,s0181 blinkit Blinkit checkout scroll (occasion),ok
+2026-11-04T19:44:25,swipe,blinkit up 1000px,ok
+2026-11-04T19:44:38,capture,s0182 blinkit Blinkit checkout scroll (occasion),ok
+2026-11-04T19:45:27,swipe,blinkit up 1000px,ok
+2026-11-04T19:45:40,capture,s0183 blinkit Blinkit checkout scroll (occasion),ok
+2026-11-04T19:45:41,swipe,blinkit up 1000px,ok
+2026-11-04T19:45:54,capture,s0184 blinkit Blinkit checkout scroll (occasion),ok
+2026-11-04T19:45:55,swipe,blinkit up 1000px,ok
+2026-11-04T19:46:00,capture,s0185 blinkit Blinkit checkout scroll (occasion),ok
+2026-11-04T19:46:01,swipe,blinkit up 1000px,ok
+2026-11-04T19:46:06,capture,s0186 blinkit Blinkit checkout scroll (occasion),ok
+2026-11-04T19:46:38,tap,"blinkit 599,2053 text~^View cart",ok
+2026-11-04T19:46:47,capture,s0187 blinkit Blinkit checkout (occasion),ok
+2026-11-04T19:46:53,swipe,blinkit up 1000px,ok
+2026-11-04T19:46:58,capture,s0188 blinkit Blinkit checkout scroll (occasion),ok
+2026-11-04T19:46:58,swipe,blinkit up 1000px,ok
+2026-11-04T19:47:03,capture,s0189 blinkit Blinkit checkout scroll (occasion),ok
+2026-11-04T19:47:03,swipe,blinkit up 1000px,ok
+2026-11-04T19:47:07,capture,s0190 blinkit Blinkit checkout scroll (occasion),ok
+2026-11-04T19:47:08,swipe,blinkit up 1000px,ok
+2026-11-04T19:47:12,capture,s0191 blinkit Blinkit checkout scroll (occasion),ok
+2026-11-04T19:47:29,swipe,blinkit down 1000px,ok
+2026-11-04T19:47:30,swipe,blinkit down 1000px,ok
+2026-11-04T19:47:32,swipe,blinkit down 1000px,ok
+2026-11-04T19:47:33,swipe,blinkit down 1000px,ok
+2026-11-04T19:47:35,swipe,blinkit down 1000px,ok
+2026-11-04T19:47:36,swipe,blinkit down 1000px,ok
+2026-11-04T19:47:40,tap,"blinkit 879,2036 text~Decrease quantity",ok
+2026-11-04T19:47:50,capture,s0192 blinkit Blinkit after emptying cart (occasion),ok
+2026-11-04T19:48:03,delete,s0192,"address picker showing other people's name, address and phone number"
+2026-11-04T19:48:04,back,blinkit,ok
+2026-11-04T19:48:08,capture,s0193 blinkit Blinkit state after closing address sheet,ok
+2026-11-04T19:48:21,back,blinkit,ok
+2026-11-04T19:48:34,cold-open,blinkit,am_total_ms=516
+2026-11-04T19:48:37,capture,s0194 blinkit Blinkit home after occasion run (cart check),ok
+2026-11-04T19:49:15,tap,"blinkit 599,2042 text~^View cart (first allowed)",ok
+2026-11-04T19:49:25,capture,s0195 blinkit Blinkit checkout (cleanup),ok
+2026-11-04T19:49:39,tap,"blinkit 879,2036 text~Decrease quantity (first allowed)",ok
+2026-11-04T19:49:50,capture,s0196 blinkit Blinkit checkout after cleanup loop,ok
+2026-11-04T19:50:13,delete,s0196,address picker showing other people's details
+2026-11-04T19:50:13,back,blinkit,ok
+2026-11-04T19:50:27,swipe,blinkit up 600px,ok
+2026-11-04T19:50:32,tap,"blinkit 879,1189 text~Decrease quantity (first allowed)",ok
+2026-11-04T19:50:38,swipe,blinkit up 600px,ok
+2026-11-04T19:50:42,tap,"blinkit 879,637 text~Decrease quantity (first allowed)",ok
+2026-11-04T19:50:49,swipe,blinkit up 600px,ok
+2026-11-04T19:50:54,swipe,blinkit up 600px,ok
+2026-11-04T19:50:59,swipe,blinkit up 600px,ok
+2026-11-04T19:51:04,swipe,blinkit up 600px,ok
+2026-11-04T19:51:09,swipe,blinkit up 600px,ok
+2026-11-04T19:51:14,swipe,blinkit up 600px,ok
+2026-11-04T19:51:25,capture,s0197 blinkit Blinkit checkout after safe cleanup,ok
+2026-11-04T19:51:37,swipe,blinkit down 800px,ok
+2026-11-04T19:51:39,swipe,blinkit down 800px,ok
+2026-11-04T19:51:40,swipe,blinkit down 800px,ok
+2026-11-04T19:51:42,swipe,blinkit down 800px,ok
+2026-11-04T19:51:43,swipe,blinkit down 800px,ok
+2026-11-04T19:51:44,swipe,blinkit down 800px,ok
+2026-11-04T19:51:48,tap,"blinkit 879,2036 text~Decrease quantity (first allowed)",ok
+2026-11-04T19:51:57,capture,s0198 blinkit Blinkit checkout state (cleanup 2),ok
+2026-11-04T19:52:05,delete,s0198,address picker showing other people's details
+2026-11-04T19:52:05,back,blinkit,ok
+2026-11-04T19:52:10,capture,s0199 blinkit Blinkit checkout state (analysis),ok
+2026-11-04T19:52:34,swipe,blinkit up 500px,ok
+2026-11-04T19:52:39,tap,"blinkit 879,1361 text~Decrease quantity (first allowed)",ok
+2026-11-04T19:52:48,swipe,blinkit up 500px,ok
+2026-11-04T19:52:53,swipe,blinkit up 500px,ok
+2026-11-04T19:52:58,swipe,blinkit up 500px,ok
+2026-11-04T19:53:03,swipe,blinkit up 500px,ok
+2026-11-04T19:53:13,capture,s0200 blinkit Blinkit checkout state (cleanup 3),ok
+2026-11-04T19:53:19,swipe,blinkit down 800px,ok
+2026-11-04T19:53:20,swipe,blinkit down 800px,ok
+2026-11-04T19:53:21,swipe,blinkit down 800px,ok
+2026-11-04T19:53:23,swipe,blinkit down 800px,ok
+2026-11-04T19:53:24,swipe,blinkit down 800px,ok
+2026-11-04T19:53:25,swipe,blinkit down 800px,ok
+2026-11-04T19:53:26,swipe,blinkit down 800px,ok
+2026-11-04T19:53:28,swipe,blinkit down 800px,ok
+2026-11-04T19:53:32,capture,s0201 blinkit Blinkit checkout top (cleanup 3),ok
+2026-11-04T19:53:48,back,blinkit,ok
+2026-11-04T19:54:01,cold-open,amazon,am_total_ms=1356
+2026-11-04T19:54:04,capture,s0202 amazon Amazon home (occasion start),ok
+2026-11-04T19:54:11,tap,"amazon 369,247 text~Now",ok
+2026-11-04T19:54:21,capture,s0203 amazon Amazon Now landing (occasion),ok
+2026-11-04T19:54:27,search,amazon birthday cake,ok
+2026-11-04T19:54:34,capture,s0204 amazon Amazon Now results: birthday cake,ok
+2026-11-04T19:54:35,swipe,amazon up 1000px,ok
+2026-11-04T19:54:39,capture,s0205 amazon Amazon Now results scroll: birthday cake,ok
+2026-11-04T19:54:40,swipe,amazon down 1000px,ok
+2026-11-04T19:54:43,tap,"amazon 459,1521 yellow +",ok
+2026-11-04T19:54:51,capture,s0206 amazon Amazon Now after + (birthday cake),ok
+2026-11-04T19:54:57,search,amazon balloons,ok
+2026-11-04T19:55:04,capture,s0207 amazon Amazon Now results: balloons,ok
+2026-11-04T19:55:05,swipe,amazon up 1000px,ok
+2026-11-04T19:55:09,capture,s0208 amazon Amazon Now results scroll: balloons,ok
+2026-11-04T19:55:10,swipe,amazon down 1000px,ok
+2026-11-04T19:55:14,tap,"amazon 459,1461 yellow +",ok
+2026-11-04T19:55:21,capture,s0209 amazon Amazon Now after + (balloons),ok
+2026-11-04T19:55:27,search,amazon candles,ok
+2026-11-04T19:55:34,capture,s0210 amazon Amazon Now results: candles,ok
+2026-11-04T19:55:35,swipe,amazon up 1000px,ok
+2026-11-04T19:55:39,capture,s0211 amazon Amazon Now results scroll: candles,ok
+2026-11-04T19:55:40,swipe,amazon down 1000px,ok
+2026-11-04T19:55:43,tap,"amazon 459,1653 yellow +",ok
+2026-11-04T19:55:50,capture,s0212 amazon Amazon Now after + (candles),ok
+2026-11-04T19:55:56,search,amazon chips,ok
+2026-11-04T19:56:04,capture,s0213 amazon Amazon Now results: chips,ok
+2026-11-04T19:56:05,swipe,amazon up 1000px,ok
+2026-11-04T19:56:08,capture,s0214 amazon Amazon Now results scroll: chips,ok
+2026-11-04T19:56:09,swipe,amazon down 1000px,ok
+2026-11-04T19:56:13,tap,"amazon 459,1587 yellow +",ok
+2026-11-04T19:56:21,capture,s0215 amazon Amazon Now after + (chips),ok
+2026-11-04T19:56:39,tap,"amazon 862,2223 text~Proceed (first allowed)",ok
+2026-11-04T19:56:49,capture,s0216 amazon Amazon Now checkout (occasion),ok
+2026-11-04T19:56:59,swipe,amazon down 800px,ok
+2026-11-04T19:57:00,swipe,amazon down 800px,ok
+2026-11-04T19:57:01,swipe,amazon down 800px,ok
+2026-11-04T19:57:03,swipe,amazon down 800px,ok
+2026-11-04T19:57:04,swipe,amazon down 800px,ok
+2026-11-04T19:57:08,tap,"amazon 681,1197 text~Decrease quantity (first allowed)",ok
+2026-11-04T19:57:16,tap,"amazon 681,1197 text~Decrease quantity (first allowed)",ok
+2026-11-04T19:57:25,tap,"amazon 681,1197 text~Decrease quantity (first allowed)",ok
+2026-11-04T19:57:33,tap,"amazon 691,1197 text~Decrease quantity (first allowed)",ok
+2026-11-04T19:57:44,capture,s0217 amazon Amazon Now cart after cleanup (occasion),ok
+2026-11-04T19:58:02,cold-open,blinkit,am_total_ms=428
+2026-11-04T19:58:05,capture,s0218 blinkit Blinkit home (non_grocery start),ok
+2026-11-04T19:58:17,search,blinkit type c fast charger,ok
+2026-11-04T19:58:22,back,blinkit,ok
+2026-11-04T19:58:27,capture,s0219 blinkit Blinkit results: type c fast charger,ok
+2026-11-04T19:58:28,swipe,blinkit up 1000px,ok
+2026-11-04T19:58:34,capture,s0220 blinkit Blinkit results scroll: type c fast charger,ok
+2026-11-04T19:58:34,swipe,blinkit up 1000px,ok
+2026-11-04T19:58:39,capture,s0221 blinkit Blinkit results scroll: type c fast charger,ok
+2026-11-04T19:58:51,cold-open,amazon,am_total_ms=1417
+2026-11-04T19:58:54,capture,s0222 amazon Amazon home (non_grocery start),ok
+2026-11-04T19:59:01,tap,"amazon 369,247 text~Now",ok
+2026-11-04T19:59:11,capture,s0223 amazon Amazon Now landing (non_grocery),ok
+2026-11-04T19:59:17,search,amazon type c fast charger,ok
+2026-11-04T19:59:25,capture,s0224 amazon Amazon Now results: type c fast charger,ok
+2026-11-04T19:59:26,swipe,amazon up 1000px,ok
+2026-11-04T19:59:30,capture,s0225 amazon Amazon Now results scroll: type c fast charger,ok
+2026-11-04T19:59:30,swipe,amazon up 1000px,ok
+2026-11-04T19:59:34,capture,s0226 amazon Amazon Now results scroll: type c fast charger,ok
+2026-11-04T20:04:03,cold-open,amazon,am_total_ms=1483
+2026-11-04T20:04:08,capture,s0227 amazon Amazon main store home (charger run start),ok
+2026-11-04T20:04:08,guard,mCurrentFocus=Window{3bede65 u0 com.grofers.customerapp/com.blinkit.quickdelivery.ui.screens.search.views.SearchActivity},REFUSED: amazon not in foreground
+2026-11-04T20:04:08,guard,mCurrentFocus=Window{3bede65 u0 com.grofers.customerapp/com.blinkit.quickdelivery.ui.screens.search.views.SearchActivity},REFUSED: amazon not in foreground
+2026-11-04T20:04:10,guard,mCurrentFocus=Window{3bede65 u0 com.grofers.customerapp/com.blinkit.quickdelivery.ui.screens.search.views.SearchActivity},REFUSED: amazon not in foreground
+2026-11-04T20:04:12,guard,mCurrentFocus=Window{3bede65 u0 com.grofers.customerapp/com.blinkit.quickdelivery.ui.screens.search.views.SearchActivity},REFUSED: amazon not in foreground
+2026-11-04T20:04:15,guard,mCurrentFocus=Window{3bede65 u0 com.grofers.customerapp/com.blinkit.quickdelivery.ui.screens.search.views.SearchActivity},REFUSED: amazon not in foreground
+2026-11-04T20:04:15,guard,mCurrentFocus=Window{3bede65 u0 com.grofers.customerapp/com.blinkit.quickdelivery.ui.screens.search.views.SearchActivity},REFUSED: amazon not in foreground
+2026-11-04T20:04:21,delete,s0227,"mislabelled launch capture, wrong app state"
+2026-11-04T20:04:27,launch,amazon,ok
+2026-11-04T20:04:35,capture,s0228 amazon Amazon main store home (charger run start),ok
+2026-11-04T20:04:51,search,amazon type c fast charger,ok
+2026-11-04T20:05:02,capture,s0229 amazon Amazon main store results: type c fast charger,ok
+2026-11-04T20:05:02,swipe,amazon up 1000px,ok
+2026-11-04T20:05:08,capture,s0230 amazon Amazon main store results scroll: type c fast charger,ok
+2026-11-04T20:05:09,swipe,amazon up 1000px,ok
+2026-11-04T20:05:14,capture,s0231 amazon Amazon main store results scroll: type c fast charger,ok
+2026-11-04T20:05:36,back,amazon,ok
+2026-11-04T20:07:49,search,amazon aashirvaad shudh chakki atta 5 kg,ok
+2026-11-04T20:07:59,capture,s0232 amazon Amazon store results: aashirvaad shudh chakki atta 5 kg,ok
+2026-11-04T20:08:12,search,amazon two brothers khapli flour 5 kg,ok
+2026-11-04T20:08:23,capture,s0233 amazon Amazon store results: two brothers khapli flour 5 kg,ok
+2026-11-04T20:08:36,search,amazon britannia double choco chip pound cake,ok
+2026-11-04T20:08:46,capture,s0234 amazon Amazon store results: britannia double choco chip pound cake,ok
+2026-11-04T20:08:59,search,amazon party propz led balloons multicolour,ok
+2026-11-04T20:09:10,capture,s0235 amazon Amazon store results: party propz led balloons multicolour,ok
+2026-11-04T20:09:52,search,amazon aashirvaad shudh chakki atta 10 kg,ok
+2026-11-04T20:09:58,swipe,amazon up 1100px,ok
+2026-11-04T20:10:04,capture,s0236 amazon Amazon store: aashirvaad shudh chakki atta 10 kg,ok
+2026-11-04T20:10:04,swipe,amazon up 1100px,ok
+2026-11-04T20:10:09,capture,s0237 amazon Amazon store: aashirvaad shudh chakki atta 10 kg,ok
+2026-11-04T20:10:22,search,amazon aashirvaad shudh chakki atta 5 kg,ok
+2026-11-04T20:10:27,swipe,amazon up 1100px,ok
+2026-11-04T20:10:33,capture,s0238 amazon Amazon store: aashirvaad shudh chakki atta 5 kg,ok
+2026-11-04T20:10:34,swipe,amazon up 1100px,ok
+2026-11-04T20:10:40,capture,s0239 amazon Amazon store: aashirvaad shudh chakki atta 5 kg,ok
+2026-11-04T20:10:52,search,amazon two brothers khapli flour 5 kg,ok
+2026-11-04T20:10:58,swipe,amazon up 1100px,ok
+2026-11-04T20:11:05,capture,s0240 amazon Amazon store: two brothers khapli flour 5 kg,ok
+2026-11-04T20:11:06,swipe,amazon up 1100px,ok
+2026-11-04T20:11:11,capture,s0241 amazon Amazon store: two brothers khapli flour 5 kg,ok
+2026-11-04T20:11:24,search,amazon britannia double choco chip pound cake,ok
+2026-11-04T20:11:30,swipe,amazon up 1100px,ok
+2026-11-04T20:11:37,capture,s0242 amazon Amazon store: britannia double choco chip pound cake,ok
+2026-11-04T20:11:37,swipe,amazon up 1100px,ok
+2026-11-04T20:11:43,capture,s0243 amazon Amazon store: britannia double choco chip pound cake,ok
+2026-11-04T20:11:55,search,amazon party propz led balloons multicolour,ok
+2026-11-04T20:12:01,swipe,amazon up 1100px,ok
+2026-11-04T20:12:08,capture,s0244 amazon Amazon store: party propz led balloons multicolour,ok
+2026-11-04T20:12:09,swipe,amazon up 1100px,ok
+2026-11-04T20:12:14,capture,s0245 amazon Amazon store: party propz led balloons multicolour,ok
+2026-11-04T20:12:28,search,amazon propcon metallic party decoration balloons,ok
+2026-11-04T20:12:34,swipe,amazon up 1100px,ok
+2026-11-04T20:12:41,capture,s0246 amazon Amazon store: propcon metallic party decoration balloons,ok
+2026-11-04T20:12:42,swipe,amazon up 1100px,ok
+2026-11-04T20:12:47,capture,s0247 amazon Amazon store: propcon metallic party decoration balloons,ok
+2026-11-04T20:13:06,search,amazon iris berry pop taper jar candle,ok
+2026-11-04T20:13:12,swipe,amazon up 1100px,ok
+2026-11-04T20:13:18,capture,s0248 amazon Amazon store: iris berry pop taper jar candle,ok
+2026-11-04T20:13:19,swipe,amazon up 1100px,ok
+2026-11-04T20:13:24,capture,s0249 amazon Amazon store: iris berry pop taper jar candle,ok
+2026-11-04T20:13:36,search,amazon unibic fruit n nut cake,ok
+2026-11-04T20:13:42,swipe,amazon up 1100px,ok
+2026-11-04T20:13:49,capture,s0250 amazon Amazon store: unibic fruit n nut cake,ok
+2026-11-04T20:13:49,swipe,amazon up 1100px,ok
+2026-11-04T20:13:55,capture,s0251 amazon Amazon store: unibic fruit n nut cake,ok
+2026-11-04T20:14:08,search,amazon ritebite max protein cheese jalapeno chips,ok
+2026-11-04T20:14:14,swipe,amazon up 1100px,ok
+2026-11-04T20:14:20,capture,s0252 amazon Amazon store: ritebite max protein cheese jalapeno chips,ok
+2026-11-04T20:14:20,swipe,amazon up 1100px,ok
+2026-11-04T20:14:25,capture,s0253 amazon Amazon store: ritebite max protein cheese jalapeno chips,ok
+2026-11-04T20:14:38,search,amazon red rock deli popped chips buldak,ok
+2026-11-04T20:14:44,swipe,amazon up 1100px,ok
+2026-11-04T20:14:50,capture,s0254 amazon Amazon store: red rock deli popped chips buldak,ok
+2026-11-04T20:14:51,swipe,amazon up 1100px,ok
+2026-11-04T20:14:56,capture,s0255 amazon Amazon store: red rock deli popped chips buldak,ok
+2026-11-04T20:15:08,search,amazon mars edge of desire lip liner,ok
+2026-11-04T20:15:14,swipe,amazon up 1100px,ok
+2026-11-04T20:15:20,capture,s0256 amazon Amazon store: mars edge of desire lip liner,ok
+2026-11-04T20:15:21,swipe,amazon up 1100px,ok
+2026-11-04T20:15:27,capture,s0257 amazon Amazon store: mars edge of desire lip liner,ok
+2026-11-04T20:15:39,search,amazon vicks dry wet cough syrup 100 ml,ok
+2026-11-04T20:15:45,swipe,amazon up 1100px,ok
+2026-11-04T20:15:51,capture,s0258 amazon Amazon store: vicks dry wet cough syrup 100 ml,ok
+2026-11-04T20:15:52,swipe,amazon up 1100px,ok
+2026-11-04T20:15:57,capture,s0259 amazon Amazon store: vicks dry wet cough syrup 100 ml,ok
+2026-11-04T20:16:14,search,amazon vicks cough drops double power ginger,ok
+2026-11-04T20:16:20,swipe,amazon up 1100px,ok
+2026-11-04T20:16:26,capture,s0260 amazon Amazon store: vicks cough drops double power ginger,ok
+2026-11-04T20:16:27,swipe,amazon up 1100px,ok
+2026-11-04T20:16:32,capture,s0261 amazon Amazon store: vicks cough drops double power ginger,ok
+2026-11-04T20:16:44,search,amazon portronics adapto 20w type c adapter,ok
+2026-11-04T20:16:50,swipe,amazon up 1100px,ok
+2026-11-04T20:16:56,capture,s0262 amazon Amazon store: portronics adapto 20w type c adapter,ok
+2026-11-04T20:16:57,swipe,amazon up 1100px,ok
+2026-11-04T20:17:02,capture,s0263 amazon Amazon store: portronics adapto 20w type c adapter,ok
+2026-11-04T20:17:14,search,amazon waan multicolour 20 m pixel light,ok
+2026-11-04T20:17:20,swipe,amazon up 1100px,ok
+2026-11-04T20:17:27,capture,s0264 amazon Amazon store: waan multicolour 20 m pixel light,ok
+2026-11-04T20:17:27,swipe,amazon up 1100px,ok
+2026-11-04T20:17:32,capture,s0265 amazon Amazon store: waan multicolour 20 m pixel light,ok
+2026-11-04T20:17:44,search,amazon vicks vaporub 50 ml,ok
+2026-11-04T20:17:50,swipe,amazon up 1100px,ok
+2026-11-04T20:17:56,capture,s0266 amazon Amazon store: vicks vaporub 50 ml,ok
+2026-11-04T20:17:57,swipe,amazon up 1100px,ok
+2026-11-04T20:18:02,capture,s0267 amazon Amazon store: vicks vaporub 50 ml,ok

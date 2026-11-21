@@ -1,0 +1,395 @@
+timestamp,app,scenario,seq,action,detail,result
+2026-11-04T18:51:27,blinkit,livecheck,1,cold-open,am_total_ms=500,ok
+2026-11-04T18:51:56,amazon,livecheck,1,cold-open,am_total_ms=1537,ok
+2026-11-04T18:52:37,blinkit,livecheck,2,cold-open,am_total_ms=520,ok
+2026-11-04T18:52:54,amazon,livecheck,2,cold-open,am_total_ms=1198,ok
+2026-11-04T18:53:21,amazon,livecheck,3,back,,ok
+2026-11-04T18:56:58,blinkit,livecheck,3,cold-open,am_total_ms=435,ok
+2026-11-04T18:57:13,amazon,livecheck,4,cold-open,am_total_ms=1341,ok
+2026-11-04T18:57:53,amazon,livecheck,5,tap,"1000,1308 text~close",ok
+2026-11-04T18:58:28,blinkit,cold_open,1,cold-open,am_total_ms=455,ok
+2026-11-04T18:58:31,blinkit,cold_open,2,swipe,up 1100px,ok
+2026-11-04T18:58:36,blinkit,cold_open,3,swipe,up 1100px,ok
+2026-11-04T18:58:41,blinkit,cold_open,4,swipe,up 1100px,ok
+2026-11-04T18:58:45,blinkit,cold_open,5,swipe,up 1100px,ok
+2026-11-04T18:58:50,blinkit,cold_open,6,swipe,up 1100px,ok
+2026-11-04T18:58:54,blinkit,cold_open,7,swipe,up 1100px,ok
+2026-11-04T18:58:59,blinkit,cold_open,8,swipe,up 1100px,ok
+2026-11-04T18:59:03,blinkit,cold_open,9,swipe,up 1100px,ok
+2026-11-04T18:59:08,blinkit,cold_open,10,swipe,up 1100px,ok
+2026-11-04T18:59:22,blinkit,cold_open,11,cold-open,am_total_ms=528,ok
+2026-11-04T18:59:36,blinkit,cold_open,12,cold-open,am_total_ms=500,ok
+2026-11-04T19:00:25,amazon,cold_open,1,cold-open,am_total_ms=1321,ok
+2026-11-04T19:00:42,amazon,cold_open,2,tap,"1000,1308 text~close",ok
+2026-11-04T19:00:53,amazon,cold_open,3,swipe,up 1100px,ok
+2026-11-04T19:00:59,amazon,cold_open,4,swipe,up 1100px,ok
+2026-11-04T19:01:04,amazon,cold_open,5,swipe,up 1100px,ok
+2026-11-04T19:01:09,amazon,cold_open,6,swipe,up 1100px,ok
+2026-11-04T19:01:14,amazon,cold_open,7,swipe,up 1100px,ok
+2026-11-04T19:01:19,amazon,cold_open,8,swipe,up 1100px,ok
+2026-11-04T19:01:24,amazon,cold_open,9,swipe,up 1100px,ok
+2026-11-04T19:01:29,amazon,cold_open,10,swipe,up 1100px,ok
+2026-11-04T19:01:36,amazon,cold_open,11,swipe,up 1100px,ok
+2026-11-04T19:01:53,amazon,cold_open,12,cold-open,am_total_ms=1320,ok
+2026-11-04T19:02:07,amazon,cold_open,13,cold-open,am_total_ms=1525,ok
+2026-11-04T19:02:28,amazon,cold_open,14,cold-open,am_total_ms=1383,ok
+2026-11-04T19:02:38,amazon,cold_open,15,tap,"369,247 text~Now",REFUSED: label 'T&C apply'
+2026-11-04T19:02:53,amazon,cold_open,16,tap,"369,247 text~Now",REFUSED: label 'T&C apply'
+2026-11-04T19:03:57,amazon,cold_open,17,tap,"369,247 text~Now",ok
+2026-11-04T19:04:19,amazon,cold_open,18,tap,"540,1110 ",ok
+2026-11-04T19:04:32,amazon,cold_open,19,swipe,up 1100px,ok
+2026-11-04T19:04:37,amazon,cold_open,20,swipe,up 1100px,ok
+2026-11-04T19:04:43,amazon,cold_open,21,swipe,up 1100px,ok
+2026-11-04T19:04:48,amazon,cold_open,22,swipe,up 1100px,ok
+2026-11-04T19:04:53,amazon,cold_open,23,swipe,up 1100px,ok
+2026-11-04T19:04:58,amazon,cold_open,24,swipe,up 1100px,ok
+2026-11-04T19:05:04,amazon,cold_open,25,swipe,up 1100px,ok
+2026-11-04T19:05:10,amazon,cold_open,26,swipe,up 1100px,ok
+2026-11-04T19:05:16,amazon,cold_open,27,swipe,up 1100px,ok
+2026-11-04T19:06:03,blinkit,explorer,1,cold-open,am_total_ms=534,ok
+2026-11-04T19:06:17,blinkit,explorer,2,tap,"190,1200 ",ok
+2026-11-04T19:06:42,blinkit,explorer,3,tap,"597,601 text~^ADD",ok
+2026-11-04T19:07:28,blinkit,explorer,4,tap,"569,2029 text~ADD",REFUSED: label 'Add to wishlist'
+2026-11-04T19:08:02,blinkit,explorer,5,tap,"569,2029 text~ADD",ok
+2026-11-04T19:08:20,blinkit,explorer,6,tap,"537,2227 text~^View cart",ok
+2026-11-04T19:08:45,blinkit,explorer,7,swipe,up 1000px,ok
+2026-11-04T19:08:50,blinkit,explorer,8,swipe,up 1000px,ok
+2026-11-04T19:08:55,blinkit,explorer,9,swipe,up 1000px,ok
+2026-11-04T19:09:10,blinkit,explorer,10,swipe,down 1000px,ok
+2026-11-04T19:09:11,blinkit,explorer,11,swipe,down 1000px,ok
+2026-11-04T19:09:13,blinkit,explorer,12,swipe,down 1000px,ok
+2026-11-04T19:09:17,blinkit,explorer,13,tap,"879,681 text~Decrease quantity",ok
+2026-11-04T19:09:51,amazon,explorer,1,cold-open,am_total_ms=1327,ok
+2026-11-04T19:10:06,amazon,explorer,2,tap,"369,247 text~Now",ok
+2026-11-04T19:10:19,amazon,explorer,3,tap,"540,1110 ",ok
+2026-11-04T19:10:41,amazon,explorer,4,tap,"540,1000 ",ok
+2026-11-04T19:11:00,amazon,explorer,5,swipe,up 1000px,ok
+2026-11-04T19:11:06,amazon,explorer,6,swipe,up 1000px,ok
+2026-11-04T19:11:11,amazon,explorer,7,swipe,up 1000px,ok
+2026-11-04T19:11:34,amazon,explorer,8,tap,"929,1718 ",ok
+2026-11-04T19:11:54,amazon,explorer,9,tap,"862,2223 text~Proceed",ok
+2026-11-04T19:12:13,amazon,explorer,10,swipe,up 900px,ok
+2026-11-04T19:12:17,amazon,explorer,11,swipe,up 900px,ok
+2026-11-04T19:12:36,amazon,explorer,12,swipe,up 800px,ok
+2026-11-04T19:12:41,amazon,explorer,13,swipe,up 800px,ok
+2026-11-04T19:12:46,amazon,explorer,14,swipe,up 800px,ok
+2026-11-04T19:13:00,amazon,explorer,15,swipe,down 800px,ok
+2026-11-04T19:13:02,amazon,explorer,16,swipe,down 800px,ok
+2026-11-04T19:13:04,amazon,explorer,17,swipe,down 800px,ok
+2026-11-04T19:13:08,amazon,explorer,18,tap,"691,1195 text~Decrease quantity",ok
+2026-11-04T19:13:34,blinkit,exact_item,1,cold-open,am_total_ms=445,ok
+2026-11-04T19:13:48,blinkit,exact_item,2,search,amul taaza milk 500ml,ok
+2026-11-04T19:14:07,blinkit,exact_item,3,back,,ok
+2026-11-04T19:14:13,blinkit,exact_item,4,swipe,up 1000px,ok
+2026-11-04T19:14:19,blinkit,exact_item,5,swipe,up 1000px,ok
+2026-11-04T19:14:42,blinkit,exact_item,6,swipe,down 1000px,ok
+2026-11-04T19:14:44,blinkit,exact_item,7,swipe,down 1000px,ok
+2026-11-04T19:14:46,blinkit,exact_item,8,swipe,down 1000px,ok
+2026-11-04T19:14:51,blinkit,exact_item,9,tap,"628,1302 text~ADD",ok
+2026-11-04T19:15:19,blinkit,exact_item,10,tap,"396,2053 text~ADD",ok
+2026-11-04T19:15:37,blinkit,exact_item,11,tap,"540,1356 ",ok
+2026-11-04T19:16:02,blinkit,exact_item,12,swipe,up 1000px,ok
+2026-11-04T19:16:08,blinkit,exact_item,13,swipe,up 1000px,ok
+2026-11-04T19:16:14,blinkit,exact_item,14,swipe,up 1000px,ok
+2026-11-04T19:16:32,blinkit,exact_item,15,tap,"537,2227 text~^View cart",ok
+2026-11-04T19:16:42,blinkit,exact_item,16,swipe,up 1000px,ok
+2026-11-04T19:16:47,blinkit,exact_item,17,swipe,up 1000px,ok
+2026-11-04T19:16:51,blinkit,exact_item,18,swipe,up 1000px,ok
+2026-11-04T19:17:04,blinkit,exact_item,19,swipe,down 1000px,ok
+2026-11-04T19:17:06,blinkit,exact_item,20,swipe,down 1000px,ok
+2026-11-04T19:17:07,blinkit,exact_item,21,swipe,down 1000px,ok
+2026-11-04T19:17:11,blinkit,exact_item,22,tap,"879,699 text~Decrease quantity",ok
+2026-11-04T19:17:36,blinkit,exact_item,23,cold-open,am_total_ms=543,ok
+2026-11-04T19:17:50,blinkit,exact_item,24,search,amull milk,ok
+2026-11-04T19:17:54,blinkit,exact_item,25,back,,ok
+2026-11-04T19:18:21,amazon,exact_item,1,cold-open,am_total_ms=1359,ok
+2026-11-04T19:18:31,amazon,exact_item,2,tap,"369,247 text~Now",ok
+2026-11-04T19:18:48,amazon,exact_item,3,tap,"540,1110 ",ok
+2026-11-04T19:19:00,amazon,exact_item,4,search,amul taaza milk 500ml,ok
+2026-11-04T19:19:16,amazon,exact_item,5,swipe,up 1000px,ok
+2026-11-04T19:19:21,amazon,exact_item,6,swipe,up 1000px,ok
+2026-11-04T19:19:40,amazon,exact_item,7,swipe,down 1000px,ok
+2026-11-04T19:19:42,amazon,exact_item,8,swipe,down 1000px,ok
+2026-11-04T19:19:43,amazon,exact_item,9,swipe,down 1000px,ok
+2026-11-04T19:19:47,amazon,exact_item,10,tap,"454,1533 ",ok
+2026-11-04T19:19:58,amazon,exact_item,11,tap,"862,2223 text~Proceed",ok
+2026-11-04T19:20:15,amazon,exact_item,12,swipe,down 800px,ok
+2026-11-04T19:20:17,amazon,exact_item,13,swipe,down 800px,ok
+2026-11-04T19:20:19,amazon,exact_item,14,swipe,down 800px,ok
+2026-11-04T19:20:23,amazon,exact_item,15,tap,"691,1195 text~Decrease quantity",ok
+2026-11-04T19:20:47,amazon,exact_item,16,cold-open,am_total_ms=1187,ok
+2026-11-04T19:20:54,amazon,exact_item,17,tap,"369,247 text~Now",ok
+2026-11-04T19:21:04,amazon,exact_item,18,tap,"540,1110 ",ok
+2026-11-04T19:21:16,amazon,exact_item,19,search,amull milk,ok
+2026-11-04T19:21:54,amazon,need_based,1,cold-open,am_total_ms=1190,ok
+2026-11-04T19:22:04,amazon,need_based,2,tap,"369,247 text~Now",ok
+2026-11-04T19:22:20,amazon,need_based,3,search,cold and cough,ok
+2026-11-04T19:22:29,amazon,need_based,4,swipe,up 1000px,ok
+2026-11-04T19:22:34,amazon,need_based,5,swipe,up 1000px,ok
+2026-11-04T19:22:38,amazon,need_based,6,swipe,up 1000px,ok
+2026-11-04T19:23:13,blinkit,need_based,1,cold-open,am_total_ms=523,ok
+2026-11-04T19:23:26,blinkit,need_based,2,search,cold and cough,ok
+2026-11-04T19:23:30,blinkit,need_based,3,back,,ok
+2026-11-04T19:23:45,blinkit,need_based,4,swipe,up 1000px,ok
+2026-11-04T19:23:59,blinkit,need_based,5,swipe,up 1000px,ok
+2026-11-04T19:24:05,blinkit,need_based,6,swipe,up 1000px,ok
+2026-11-04T19:24:53,blinkit,weekly_topup,1,cold-open,am_total_ms=478,ok
+2026-11-04T19:25:07,blinkit,weekly_topup,2,search,milk,ok
+2026-11-04T19:25:19,blinkit,weekly_topup,3,search,bread,ok
+2026-11-04T19:25:45,blinkit,weekly_topup,4,search,milk,ok
+2026-11-04T19:25:49,blinkit,weekly_topup,5,back,,ok
+2026-11-04T19:25:57,blinkit,weekly_topup,6,tap,"279,1690 text~ADD",ok
+2026-11-04T19:26:16,blinkit,weekly_topup,7,search,bread,ok
+2026-11-04T19:26:20,blinkit,weekly_topup,8,back,,ok
+2026-11-04T19:26:30,blinkit,weekly_topup,9,tap,"977,1669 text~ADD",ok
+2026-11-04T19:26:39,blinkit,weekly_topup,10,back,,ok
+2026-11-04T19:26:48,blinkit,weekly_topup,11,tap,"977,1669 text~ADD",ok
+2026-11-04T19:26:58,blinkit,weekly_topup,12,back,,ok
+2026-11-04T19:27:07,blinkit,weekly_topup,13,tap,"977,1669 text~ADD",ok
+2026-11-04T19:27:17,blinkit,weekly_topup,14,back,,ok
+2026-11-04T19:27:26,blinkit,weekly_topup,15,tap,"977,1669 text~ADD",ok
+2026-11-04T19:27:35,blinkit,weekly_topup,16,back,,ok
+2026-11-04T19:27:44,blinkit,weekly_topup,17,tap,"977,1669 text~ADD",ok
+2026-11-04T19:28:07,blinkit,weekly_topup,18,tap,"540,1275 ",ok
+2026-11-04T19:28:35,blinkit,weekly_topup,19,search,bread,ok
+2026-11-04T19:28:39,blinkit,weekly_topup,20,back,,ok
+2026-11-04T19:28:48,blinkit,weekly_topup,21,tap,"279,1690 plain ADD",ok
+2026-11-04T19:29:05,blinkit,weekly_topup,22,search,eggs,ok
+2026-11-04T19:29:09,blinkit,weekly_topup,23,back,,ok
+2026-11-04T19:29:47,blinkit,weekly_topup,24,back,,ok
+2026-11-04T19:30:04,blinkit,weekly_topup,25,search,bananas,ok
+2026-11-04T19:30:08,blinkit,weekly_topup,26,back,,ok
+2026-11-04T19:30:16,blinkit,weekly_topup,27,tap,"279,1304 plain ADD",ok
+2026-11-04T19:30:34,blinkit,weekly_topup,28,search,atta,ok
+2026-11-04T19:30:38,blinkit,weekly_topup,29,back,,ok
+2026-11-04T19:30:46,blinkit,weekly_topup,30,tap,"279,1690 plain ADD",ok
+2026-11-04T19:31:10,blinkit,weekly_topup,31,search,eggs,ok
+2026-11-04T19:31:15,blinkit,weekly_topup,32,back,,ok
+2026-11-04T19:31:26,blinkit,weekly_topup,33,tap,"628,1651 plain ADD",ok
+2026-11-04T19:31:43,blinkit,weekly_topup,34,search,onions,ok
+2026-11-04T19:31:48,blinkit,weekly_topup,35,back,,ok
+2026-11-04T19:31:56,blinkit,weekly_topup,36,tap,"628,1651 plain ADD",ok
+2026-11-04T19:32:17,blinkit,weekly_topup,37,tap,"599,2227 text~^View cart",ok
+2026-11-04T19:32:27,blinkit,weekly_topup,38,swipe,up 1000px,ok
+2026-11-04T19:32:32,blinkit,weekly_topup,39,swipe,up 1000px,ok
+2026-11-04T19:32:37,blinkit,weekly_topup,40,swipe,up 1000px,ok
+2026-11-04T19:32:41,blinkit,weekly_topup,41,swipe,up 1000px,ok
+2026-11-04T19:33:07,blinkit,weekly_topup,42,swipe,down 1000px,ok
+2026-11-04T19:33:09,blinkit,weekly_topup,43,swipe,down 1000px,ok
+2026-11-04T19:33:10,blinkit,weekly_topup,44,swipe,down 1000px,ok
+2026-11-04T19:33:11,blinkit,weekly_topup,45,swipe,down 1000px,ok
+2026-11-04T19:33:13,blinkit,weekly_topup,46,swipe,down 1000px,ok
+2026-11-04T19:33:14,blinkit,weekly_topup,47,swipe,down 1000px,ok
+2026-11-04T19:33:18,blinkit,weekly_topup,48,tap,"879,1290 text~Decrease quantity",ok
+2026-11-04T19:33:26,blinkit,weekly_topup,49,tap,"879,1290 text~Decrease quantity",ok
+2026-11-04T19:33:33,blinkit,weekly_topup,50,tap,"879,1308 text~Decrease quantity",ok
+2026-11-04T19:33:41,blinkit,weekly_topup,51,tap,"879,1290 text~Decrease quantity",ok
+2026-11-04T19:33:48,blinkit,weekly_topup,52,tap,"879,699 text~Decrease quantity",ok
+2026-11-04T19:33:56,blinkit,weekly_topup,53,tap,"879,699 text~Decrease quantity",ok
+2026-11-04T19:34:51,amazon,weekly_topup,1,cold-open,am_total_ms=1178,ok
+2026-11-04T19:35:02,amazon,weekly_topup,2,tap,"369,247 text~Now",ok
+2026-11-04T19:35:21,amazon,weekly_topup,3,search,milk,ok
+2026-11-04T19:35:31,amazon,weekly_topup,4,tap,"459,1539 yellow +",ok
+2026-11-04T19:35:45,amazon,weekly_topup,5,search,bread,ok
+2026-11-04T19:35:55,amazon,weekly_topup,6,tap,"459,1491 yellow +",ok
+2026-11-04T19:36:08,amazon,weekly_topup,7,search,eggs,ok
+2026-11-04T19:36:18,amazon,weekly_topup,8,tap,"459,1539 yellow +",ok
+2026-11-04T19:36:31,amazon,weekly_topup,9,search,onions,ok
+2026-11-04T19:36:42,amazon,weekly_topup,10,tap,"459,1419 yellow +",ok
+2026-11-04T19:36:55,amazon,weekly_topup,11,search,bananas,ok
+2026-11-04T19:37:05,amazon,weekly_topup,12,tap,"459,1419 yellow +",ok
+2026-11-04T19:37:19,amazon,weekly_topup,13,search,atta,ok
+2026-11-04T19:37:29,amazon,weekly_topup,14,tap,"459,1533 yellow +",ok
+2026-11-04T19:37:45,amazon,weekly_topup,15,tap,"862,2223 text~Proceed",ok
+2026-11-04T19:38:11,amazon,weekly_topup,16,swipe,up 1000px,ok
+2026-11-04T19:38:16,amazon,weekly_topup,17,swipe,up 1000px,ok
+2026-11-04T19:38:21,amazon,weekly_topup,18,swipe,up 1000px,ok
+2026-11-04T19:38:25,amazon,weekly_topup,19,swipe,up 1000px,ok
+2026-11-04T19:38:30,amazon,weekly_topup,20,swipe,up 1000px,ok
+2026-11-04T19:38:53,amazon,weekly_topup,21,swipe,down 1000px,ok
+2026-11-04T19:38:55,amazon,weekly_topup,22,swipe,down 1000px,ok
+2026-11-04T19:38:56,amazon,weekly_topup,23,swipe,down 1000px,ok
+2026-11-04T19:38:57,amazon,weekly_topup,24,swipe,down 1000px,ok
+2026-11-04T19:38:59,amazon,weekly_topup,25,swipe,down 1000px,ok
+2026-11-04T19:39:00,amazon,weekly_topup,26,swipe,down 1000px,ok
+2026-11-04T19:39:04,amazon,weekly_topup,27,tap,"662,1197 text~Decrease quantity",ok
+2026-11-04T19:39:13,amazon,weekly_topup,28,tap,"681,1197 text~Decrease quantity",ok
+2026-11-04T19:39:21,amazon,weekly_topup,29,tap,"681,1197 text~Decrease quantity",ok
+2026-11-04T19:39:30,amazon,weekly_topup,30,tap,"681,1197 text~Decrease quantity",ok
+2026-11-04T19:39:38,amazon,weekly_topup,31,tap,"691,1197 text~Decrease quantity",ok
+2026-11-04T19:39:47,amazon,weekly_topup,32,tap,"691,1197 text~Decrease quantity",ok
+2026-11-04T19:40:15,blinkit,occasion,1,cold-open,am_total_ms=540,ok
+2026-11-04T19:40:29,blinkit,occasion,2,search,birthday cake,ok
+2026-11-04T19:40:34,blinkit,occasion,3,back,,ok
+2026-11-04T19:40:40,blinkit,occasion,4,swipe,up 1000px,ok
+2026-11-04T19:40:46,blinkit,occasion,5,swipe,down 1000px,ok
+2026-11-04T19:40:51,blinkit,occasion,6,tap,"628,1459 plain ADD",ok
+2026-11-04T19:41:08,blinkit,occasion,7,search,balloons,ok
+2026-11-04T19:41:13,blinkit,occasion,8,back,,ok
+2026-11-04T19:41:19,blinkit,occasion,9,swipe,up 1000px,ok
+2026-11-04T19:41:25,blinkit,occasion,10,swipe,down 1000px,ok
+2026-11-04T19:41:31,blinkit,occasion,11,tap,"279,1651 plain ADD",ok
+2026-11-04T19:41:48,blinkit,occasion,12,search,candles,ok
+2026-11-04T19:41:53,blinkit,occasion,13,back,,ok
+2026-11-04T19:42:00,blinkit,occasion,14,swipe,up 1000px,ok
+2026-11-04T19:42:08,blinkit,occasion,15,swipe,down 1000px,ok
+2026-11-04T19:42:13,blinkit,occasion,16,tap,"279,1651 plain ADD",ok
+2026-11-04T19:42:34,blinkit,occasion,17,search,chips,ok
+2026-11-04T19:42:38,blinkit,occasion,18,back,,ok
+2026-11-04T19:42:44,blinkit,occasion,19,swipe,up 1000px,ok
+2026-11-04T19:42:52,blinkit,occasion,20,swipe,down 1000px,ok
+2026-11-04T19:42:58,blinkit,occasion,21,tap,"279,1651 plain ADD",ok
+2026-11-04T19:43:50,blinkit,occasion,22,swipe,up 1000px,ok
+2026-11-04T19:44:04,blinkit,occasion,23,swipe,up 1000px,ok
+2026-11-04T19:44:11,blinkit,occasion,24,swipe,up 1000px,ok
+2026-11-04T19:44:25,blinkit,occasion,25,swipe,up 1000px,ok
+2026-11-04T19:45:27,blinkit,occasion,26,swipe,up 1000px,ok
+2026-11-04T19:45:41,blinkit,occasion,27,swipe,up 1000px,ok
+2026-11-04T19:45:55,blinkit,occasion,28,swipe,up 1000px,ok
+2026-11-04T19:46:01,blinkit,occasion,29,swipe,up 1000px,ok
+2026-11-04T19:46:38,blinkit,occasion,30,tap,"599,2053 text~^View cart",ok
+2026-11-04T19:46:53,blinkit,occasion,31,swipe,up 1000px,ok
+2026-11-04T19:46:58,blinkit,occasion,32,swipe,up 1000px,ok
+2026-11-04T19:47:03,blinkit,occasion,33,swipe,up 1000px,ok
+2026-11-04T19:47:08,blinkit,occasion,34,swipe,up 1000px,ok
+2026-11-04T19:47:29,blinkit,occasion,35,swipe,down 1000px,ok
+2026-11-04T19:47:30,blinkit,occasion,36,swipe,down 1000px,ok
+2026-11-04T19:47:32,blinkit,occasion,37,swipe,down 1000px,ok
+2026-11-04T19:47:33,blinkit,occasion,38,swipe,down 1000px,ok
+2026-11-04T19:47:35,blinkit,occasion,39,swipe,down 1000px,ok
+2026-11-04T19:47:36,blinkit,occasion,40,swipe,down 1000px,ok
+2026-11-04T19:47:40,blinkit,occasion,41,tap,"879,2036 text~Decrease quantity",ok
+2026-11-04T19:48:04,blinkit,occasion,42,back,,ok
+2026-11-04T19:48:21,blinkit,occasion,43,back,,ok
+2026-11-04T19:48:34,blinkit,occasion,44,cold-open,am_total_ms=516,ok
+2026-11-04T19:49:15,blinkit,occasion,45,tap,"599,2042 text~^View cart (first allowed)",ok
+2026-11-04T19:49:39,blinkit,occasion,46,tap,"879,2036 text~Decrease quantity (first allowed)",ok
+2026-11-04T19:50:13,blinkit,occasion,47,back,,ok
+2026-11-04T19:50:27,blinkit,occasion,48,swipe,up 600px,ok
+2026-11-04T19:50:32,blinkit,occasion,49,tap,"879,1189 text~Decrease quantity (first allowed)",ok
+2026-11-04T19:50:38,blinkit,occasion,50,swipe,up 600px,ok
+2026-11-04T19:50:42,blinkit,occasion,51,tap,"879,637 text~Decrease quantity (first allowed)",ok
+2026-11-04T19:50:49,blinkit,occasion,52,swipe,up 600px,ok
+2026-11-04T19:50:54,blinkit,occasion,53,swipe,up 600px,ok
+2026-11-04T19:50:59,blinkit,occasion,54,swipe,up 600px,ok
+2026-11-04T19:51:04,blinkit,occasion,55,swipe,up 600px,ok
+2026-11-04T19:51:09,blinkit,occasion,56,swipe,up 600px,ok
+2026-11-04T19:51:14,blinkit,occasion,57,swipe,up 600px,ok
+2026-11-04T19:51:37,blinkit,occasion,58,swipe,down 800px,ok
+2026-11-04T19:51:39,blinkit,occasion,59,swipe,down 800px,ok
+2026-11-04T19:51:40,blinkit,occasion,60,swipe,down 800px,ok
+2026-11-04T19:51:42,blinkit,occasion,61,swipe,down 800px,ok
+2026-11-04T19:51:43,blinkit,occasion,62,swipe,down 800px,ok
+2026-11-04T19:51:44,blinkit,occasion,63,swipe,down 800px,ok
+2026-11-04T19:51:48,blinkit,occasion,64,tap,"879,2036 text~Decrease quantity (first allowed)",ok
+2026-11-04T19:52:05,blinkit,occasion,65,back,,ok
+2026-11-04T19:52:34,blinkit,occasion,66,swipe,up 500px,ok
+2026-11-04T19:52:39,blinkit,occasion,67,tap,"879,1361 text~Decrease quantity (first allowed)",ok
+2026-11-04T19:52:48,blinkit,occasion,68,swipe,up 500px,ok
+2026-11-04T19:52:53,blinkit,occasion,69,swipe,up 500px,ok
+2026-11-04T19:52:58,blinkit,occasion,70,swipe,up 500px,ok
+2026-11-04T19:53:03,blinkit,occasion,71,swipe,up 500px,ok
+2026-11-04T19:53:19,blinkit,occasion,72,swipe,down 800px,ok
+2026-11-04T19:53:20,blinkit,occasion,73,swipe,down 800px,ok
+2026-11-04T19:53:21,blinkit,occasion,74,swipe,down 800px,ok
+2026-11-04T19:53:23,blinkit,occasion,75,swipe,down 800px,ok
+2026-11-04T19:53:24,blinkit,occasion,76,swipe,down 800px,ok
+2026-11-04T19:53:25,blinkit,occasion,77,swipe,down 800px,ok
+2026-11-04T19:53:26,blinkit,occasion,78,swipe,down 800px,ok
+2026-11-04T19:53:28,blinkit,occasion,79,swipe,down 800px,ok
+2026-11-04T19:53:48,blinkit,occasion,80,back,,ok
+2026-11-04T19:54:01,amazon,occasion,1,cold-open,am_total_ms=1356,ok
+2026-11-04T19:54:11,amazon,occasion,2,tap,"369,247 text~Now",ok
+2026-11-04T19:54:27,amazon,occasion,3,search,birthday cake,ok
+2026-11-04T19:54:35,amazon,occasion,4,swipe,up 1000px,ok
+2026-11-04T19:54:40,amazon,occasion,5,swipe,down 1000px,ok
+2026-11-04T19:54:43,amazon,occasion,6,tap,"459,1521 yellow +",ok
+2026-11-04T19:54:57,amazon,occasion,7,search,balloons,ok
+2026-11-04T19:55:05,amazon,occasion,8,swipe,up 1000px,ok
+2026-11-04T19:55:10,amazon,occasion,9,swipe,down 1000px,ok
+2026-11-04T19:55:14,amazon,occasion,10,tap,"459,1461 yellow +",ok
+2026-11-04T19:55:27,amazon,occasion,11,search,candles,ok
+2026-11-04T19:55:35,amazon,occasion,12,swipe,up 1000px,ok
+2026-11-04T19:55:40,amazon,occasion,13,swipe,down 1000px,ok
+2026-11-04T19:55:43,amazon,occasion,14,tap,"459,1653 yellow +",ok
+2026-11-04T19:55:56,amazon,occasion,15,search,chips,ok
+2026-11-04T19:56:05,amazon,occasion,16,swipe,up 1000px,ok
+2026-11-04T19:56:09,amazon,occasion,17,swipe,down 1000px,ok
+2026-11-04T19:56:13,amazon,occasion,18,tap,"459,1587 yellow +",ok
+2026-11-04T19:56:39,amazon,occasion,19,tap,"862,2223 text~Proceed (first allowed)",ok
+2026-11-04T19:56:59,amazon,occasion,20,swipe,down 800px,ok
+2026-11-04T19:57:00,amazon,occasion,21,swipe,down 800px,ok
+2026-11-04T19:57:01,amazon,occasion,22,swipe,down 800px,ok
+2026-11-04T19:57:03,amazon,occasion,23,swipe,down 800px,ok
+2026-11-04T19:57:04,amazon,occasion,24,swipe,down 800px,ok
+2026-11-04T19:57:08,amazon,occasion,25,tap,"681,1197 text~Decrease quantity (first allowed)",ok
+2026-11-04T19:57:16,amazon,occasion,26,tap,"681,1197 text~Decrease quantity (first allowed)",ok
+2026-11-04T19:57:25,amazon,occasion,27,tap,"681,1197 text~Decrease quantity (first allowed)",ok
+2026-11-04T19:57:33,amazon,occasion,28,tap,"691,1197 text~Decrease quantity (first allowed)",ok
+2026-11-04T19:58:02,blinkit,non_grocery,1,cold-open,am_total_ms=428,ok
+2026-11-04T19:58:17,blinkit,non_grocery,2,search,type c fast charger,ok
+2026-11-04T19:58:22,blinkit,non_grocery,3,back,,ok
+2026-11-04T19:58:28,blinkit,non_grocery,4,swipe,up 1000px,ok
+2026-11-04T19:58:34,blinkit,non_grocery,5,swipe,up 1000px,ok
+2026-11-04T19:58:51,amazon,non_grocery,1,cold-open,am_total_ms=1417,ok
+2026-11-04T19:59:01,amazon,non_grocery,2,tap,"369,247 text~Now",ok
+2026-11-04T19:59:17,amazon,non_grocery,3,search,type c fast charger,ok
+2026-11-04T19:59:26,amazon,non_grocery,4,swipe,up 1000px,ok
+2026-11-04T19:59:30,amazon,non_grocery,5,swipe,up 1000px,ok
+2026-11-04T20:04:03,amazon,non_grocery,6,cold-open,am_total_ms=1483,ok
+2026-11-04T20:04:51,amazon,non_grocery,7,search,type c fast charger,ok
+2026-11-04T20:05:02,amazon,non_grocery,8,swipe,up 1000px,ok
+2026-11-04T20:05:09,amazon,non_grocery,9,swipe,up 1000px,ok
+2026-11-04T20:05:36,amazon,non_grocery,10,back,,ok
+2026-11-04T20:07:49,amazon,store_price_check,1,search,aashirvaad shudh chakki atta 5 kg,ok
+2026-11-04T20:08:12,amazon,store_price_check,2,search,two brothers khapli flour 5 kg,ok
+2026-11-04T20:08:36,amazon,store_price_check,3,search,britannia double choco chip pound cake,ok
+2026-11-04T20:08:59,amazon,store_price_check,4,search,party propz led balloons multicolour,ok
+2026-11-04T20:09:52,amazon,store_price_check,5,search,aashirvaad shudh chakki atta 10 kg,ok
+2026-11-04T20:09:58,amazon,store_price_check,6,swipe,up 1100px,ok
+2026-11-04T20:10:04,amazon,store_price_check,7,swipe,up 1100px,ok
+2026-11-04T20:10:22,amazon,store_price_check,8,search,aashirvaad shudh chakki atta 5 kg,ok
+2026-11-04T20:10:27,amazon,store_price_check,9,swipe,up 1100px,ok
+2026-11-04T20:10:34,amazon,store_price_check,10,swipe,up 1100px,ok
+2026-11-04T20:10:52,amazon,store_price_check,11,search,two brothers khapli flour 5 kg,ok
+2026-11-04T20:10:58,amazon,store_price_check,12,swipe,up 1100px,ok
+2026-11-04T20:11:06,amazon,store_price_check,13,swipe,up 1100px,ok
+2026-11-04T20:11:24,amazon,store_price_check,14,search,britannia double choco chip pound cake,ok
+2026-11-04T20:11:30,amazon,store_price_check,15,swipe,up 1100px,ok
+2026-11-04T20:11:37,amazon,store_price_check,16,swipe,up 1100px,ok
+2026-11-04T20:11:55,amazon,store_price_check,17,search,party propz led balloons multicolour,ok
+2026-11-04T20:12:01,amazon,store_price_check,18,swipe,up 1100px,ok
+2026-11-04T20:12:09,amazon,store_price_check,19,swipe,up 1100px,ok
+2026-11-04T20:12:28,amazon,store_price_check,20,search,propcon metallic party decoration balloons,ok
+2026-11-04T20:12:34,amazon,store_price_check,21,swipe,up 1100px,ok
+2026-11-04T20:12:42,amazon,store_price_check,22,swipe,up 1100px,ok
+2026-11-04T20:13:06,amazon,store_price_check,23,search,iris berry pop taper jar candle,ok
+2026-11-04T20:13:12,amazon,store_price_check,24,swipe,up 1100px,ok
+2026-11-04T20:13:19,amazon,store_price_check,25,swipe,up 1100px,ok
+2026-11-04T20:13:36,amazon,store_price_check,26,search,unibic fruit n nut cake,ok
+2026-11-04T20:13:42,amazon,store_price_check,27,swipe,up 1100px,ok
+2026-11-04T20:13:49,amazon,store_price_check,28,swipe,up 1100px,ok
+2026-11-04T20:14:08,amazon,store_price_check,29,search,ritebite max protein cheese jalapeno chips,ok
+2026-11-04T20:14:14,amazon,store_price_check,30,swipe,up 1100px,ok
+2026-11-04T20:14:20,amazon,store_price_check,31,swipe,up 1100px,ok
+2026-11-04T20:14:38,amazon,store_price_check,32,search,red rock deli popped chips buldak,ok
+2026-11-04T20:14:44,amazon,store_price_check,33,swipe,up 1100px,ok
+2026-11-04T20:14:51,amazon,store_price_check,34,swipe,up 1100px,ok
+2026-11-04T20:15:08,amazon,store_price_check,35,search,mars edge of desire lip liner,ok
+2026-11-04T20:15:14,amazon,store_price_check,36,swipe,up 1100px,ok
+2026-11-04T20:15:21,amazon,store_price_check,37,swipe,up 1100px,ok
+2026-11-04T20:15:39,amazon,store_price_check,38,search,vicks dry wet cough syrup 100 ml,ok
+2026-11-04T20:15:45,amazon,store_price_check,39,swipe,up 1100px,ok
+2026-11-04T20:15:52,amazon,store_price_check,40,swipe,up 1100px,ok
+2026-11-04T20:16:14,amazon,store_price_check,41,search,vicks cough drops double power ginger,ok
+2026-11-04T20:16:20,amazon,store_price_check,42,swipe,up 1100px,ok
+2026-11-04T20:16:27,amazon,store_price_check,43,swipe,up 1100px,ok
+2026-11-04T20:16:44,amazon,store_price_check,44,search,portronics adapto 20w type c adapter,ok
+2026-11-04T20:16:50,amazon,store_price_check,45,swipe,up 1100px,ok
+2026-11-04T20:16:57,amazon,store_price_check,46,swipe,up 1100px,ok
+2026-11-04T20:17:14,amazon,store_price_check,47,search,waan multicolour 20 m pixel light,ok
+2026-11-04T20:17:20,amazon,store_price_check,48,swipe,up 1100px,ok
+2026-11-04T20:17:27,amazon,store_price_check,49,swipe,up 1100px,ok
+2026-11-04T20:17:44,amazon,store_price_check,50,search,vicks vaporub 50 ml,ok
+2026-11-04T20:17:50,amazon,store_price_check,51,swipe,up 1100px,ok
+2026-11-04T20:17:57,amazon,store_price_check,52,swipe,up 1100px,ok

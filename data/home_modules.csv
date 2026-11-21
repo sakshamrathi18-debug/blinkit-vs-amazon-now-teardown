@@ -1,0 +1,37 @@
+app,cold_open,position,module_type,title,above_fold,sponsored,items_shown,evidence_id,note
+blinkit,1,1,header_status,"ETA 19 minutes, HOME address, search 'gift pack', wallet, profile",yes,no,,s0010,festive green theme; search placeholder is contextual (gift pack)
+blinkit,1,2,category_tabs,"All, Party, Electronics, Beauty, Gifting, Decor",yes,no,,s0010,"top tabs are occasion/gifting led, not grocery"
+blinkit,1,3,festival_hero_tiles,"Lights Diya Decor (Rangoli Stencil Rs109, MRP Rs199); Flowers & Pooja; Bedsheets Decor Dining; Diwali Gifting; Appliances & Gadgets",yes,no,5,s0010,takes most of first screen; one tile carries a price hero
+blinkit,1,4,curated_shop,"Diwali Gift Shop: Indian Sweets, Dry Fruits, Chocolates & Hampers",yes,no,3,s0010,
+blinkit,1,5,promo_strip,Diwali Special: buy any 2 decorative diyas at Rs119,yes,no,,s0010,bundle offer
+blinkit,1,6,product_carousel,"Festive Specials (trending lights, flowers, diya sets) with ADD buttons",no,no,3,s0011,"1st scroll; shows price, MRP, discount, rating, ETA, stock-left cues"
+blinkit,1,7,collection_bundles,"Frequently bought: Favourites, Drinks & Juices, Chips & Namkeen",no,no,,s0012,only history-flavoured module in first 3 scrolls
+blinkit,1,8,sponsored_featured,"Featured this week: Torans & Lanterns, Prestige cooker, Festive Cooking",no,yes,,s0012,labelled Featured
+blinkit,1,9,sponsored_products,"Thoughtful Gifts carousel (Cadbury Celebrations, Kinder Joy, Pink Haveli) marked Ad",no,yes,3,s0013,
+blinkit,1,10,category_grid,Grocery & Kitchen; Snacks & Drinks; Beauty & Personal Care; Household Essentials,no,no,,s0014,core grocery grid first appears at scroll 4 to 5
+blinkit,1,11,brand_banner,"Buy your favourite Red Rock Deli chips, free can of Pepsi",no,yes,,s0016,
+blinkit,1,12,store_tiles,"Stores in spotlight (Monsoon, Travel, Hobby, Sports); Picks for your lifestyle (Spiritual, Pet, Fashion, Toy, Book, Pharma, Jewellery, Travel)",no,no,,s0017,non-grocery category expansion
+blinkit,1,13,sponsored_products,"Self care made simple: Laneige lip sleeping mask Rs480, tinted lip balm Rs600, glaze serum Rs920",no,yes,3,s0018,labelled Sponsored
+blinkit,1,14,personalised_carousel,"Curated for you: Puffs (Too Yumm, Crax Curls, Bingo); Bought earlier label on one item",no,no,6,s0018,"first clearly personalised module, about 8 screens down"
+blinkit,2,1,header_status,ETA 19 minutes; red theme,yes,no,,s0020,theme changed from green to red; Gift Shop and tile layout same
+blinkit,2,3,festival_hero_tiles,Same 5 tiles; Rangoli Stencil Rs109 hero,yes,no,5,s0020,
+blinkit,3,1,header_status,ETA 15 minutes; Diwali date banner '8th November'; search placeholder generic,yes,no,,s0021,countdown banner added
+blinkit,3,3,festival_hero_tiles,Same 5 tiles; hero swapped to Diya Set Rs129 (MRP Rs349),yes,no,5,s0021,hero product and price changed between opens
+amazon_now,1,0,popup,"Diwali Ready: Get cashback everytime, co-branded Tata Sampann, Shop Now",yes,yes,,s0037,blocks Now home until closed
+amazon_now,1,1,header_status,"ETA 11 mins, wallet Rs104, address (matches Blinkit), search 'Search for'",yes,no,,s0038,
+amazon_now,1,2,shortcut_row,"Live now, Diwali, Beverages, Snacks & treats, Paan store",yes,no,5,s0038,occasion plus impulse categories
+amazon_now,1,3,hero_banner,"Get ready for Diwali (co-powered by Vega), carousel of 8+",yes,yes,,s0038,
+amazon_now,1,4,offer_strip,Welcome offer: cashback from 6th order up to Rs200 (Prime only free delivery above Rs149); Zero fees on all orders; HDFC 10% instant discount,yes,no,,s0038,fee removal and cashback are the main hooks
+amazon_now,1,5,sticky_cart_bar,Add items worth Rs99 to get free delivery,yes,no,,s0038,shown with an empty cart on every screen; persistent free-delivery nudge
+amazon_now,1,6,install_prompt,Unlock faster shopping: add Now shortcut to home screen,no,no,,s0039,
+amazon_now,1,7,personalised_tabs,"Recommended for you: Top Picks, Diwali Specials, Fresh Vegetables, Drinks & Juices, Chips",no,no,3,s0039,"staples first (bhindi, green chilli, onion with % off and ADD); grocery appears at first scroll"
+amazon_now,1,8,brand_banner,All the festive feels: So Good plant based milk (powered by So Good),no,yes,3,s0041,
+amazon_now,1,9,category_grid,Groceries & Kitchen; Snacks & Beverages; Household Essentials; Personal Care & Beauty,no,no,,s0042,reached at scroll 3 to 5; same set as Blinkit
+amazon_now,1,10,brand_banner,Pampers premium care carousel,no,yes,3,s0044,
+amazon_now,1,11,sponsored_banner,"Dhanteras Special: idols, steel and copper utensils, cookware",no,yes,,s0045,labelled Sponsored
+amazon_now,1,12,festival_collection,"Diyas, lights & rangoli (clay diya Rs19, Cotton Wicks Rs19)",no,no,3,s0046,
+amazon_now,1,13,catalogue_crossover,"Blockbuster Deals up to 80% off, Top Deals: electronics, appliances, beauty, home; items include extension board, book (Great Indian Festival tags)",no,no,,s0047,main-store sale items inside the 11-min feed
+amazon_store,1,0,popup,Great Indian Festival Last Chance Deals; Extra Rs250 cashback only for Prime; HDFC 10%,yes,yes,,s0022,full-screen popup hides the home on open
+amazon_store,1,1,tiles_row,"Pay, Now (9 mins), Fresh, Crazy Prices, GIF Deals",yes,no,5,s0036,"Now is the 2nd tile; tile set changes per open (Flights/Pay, Groceries Fresh appears)"
+amazon_store,1,2,search_and_address,Search or ask a question; Deliver to [name] - [city, pincode],yes,no,,s0036,
+amazon_store,1,3,hero_carousel,Premium Tablets (Galaxy Tab S10 Lite) with HDFC 10%,yes,yes,,s0036,"main store is electronics and fashion deals, no groceries"

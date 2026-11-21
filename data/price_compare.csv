@@ -1,0 +1,6 @@
+product,pack,blinkit_price,blinkit_mrp,amazon_price,amazon_mrp,blinkit_eta,amazon_eta,blinkit_evidence,amazon_evidence,note
+Verka standard toned milk (Blinkit) / Verka Shakti standard fresh milk (Amazon Now),500 ml,33,,33,,20 mins,15 mins,s0077,s0093,"likely same product, names differ"
+Country Delight buffalo milk,450 ml,59,,54,62,20 mins,,s0090,s0100,Amazon Now 5 cheaper
+Vicks Dry + Wet cough syrup,100 ml,99,121,99,121,25 mins,,s0110,s0104,equal
+Vicks cough drops double power (ginger),25 pcs,50,,47,50,25 mins,,s0111,s0103,Amazon Now 3 cheaper
+Portronics Adapto 20W type C adapter,20 W,301,1499,301,1499,15 mins,,s0220,s0225,"equal, same MRP anchor"

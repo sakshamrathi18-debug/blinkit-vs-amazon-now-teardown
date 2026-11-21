@@ -1,0 +1,22 @@
+{
+  "time": "2026-11-04T18:51:08",
+  "model": "SM-G780F",
+  "android": "13",
+  "size": "Physical size: 1080x2400",
+  "battery": [
+    "100"
+  ],
+  "dnd_zen_mode": "1",
+  "stay_on": "0",
+  "foreground": "mCurrentFocus=Window{17a750f u0 com.sec.android.app.launcher/com.sec.android.app.launcher.activities.LauncherActivity}",
+  "blinkit": {
+    "package": "com.grofers.customerapp",
+    "installed": true,
+    "version": "18.41.0"
+  },
+  "amazon": {
+    "package": "in.amazon.mShop.android.shopping",
+    "installed": true,
+    "version": "32.19.0.300"
+  }
+}

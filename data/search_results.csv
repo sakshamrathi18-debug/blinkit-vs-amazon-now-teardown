@@ -1,0 +1,70 @@
+app,scenario,query,rank,product,brand,pack,price,mrp,discount,eta,sponsored,in_stock,rating,evidence_id,note
+blinkit,exact_item,amul taaza milk 500ml,1,Amul Gold Full Cream Milk,Amul,500 ml,36,,,20 mins,no,yes,4.x,s0076,query shown as 'amul taaza milk' (500ml dropped); Gold not Taaza
+blinkit,exact_item,amul taaza milk 500ml,2,Amul Taaza Toned Milk,Amul,200 ml pack of 2,34,,,20 mins,no,yes,,s0076,closest to exact item; rating 2 lac
+blinkit,exact_item,amul taaza milk 500ml,3,Amul Taaza Homogenised Toned Milk,Amul,1 ltr,77,,,20 mins,no,yes,,s0076,
+blinkit,exact_item,amul taaza milk 500ml,4,Amul Moti Toned Milk,Amul,450 ml,33,,,20 mins,no,yes,,s0076,Bought Earlier label; 3 left
+blinkit,exact_item,amul taaza milk 500ml,5,Amul Gold Milk,Amul,1 ltr,83,,,20 mins,no,yes,,s0076,
+blinkit,exact_item,amul taaza milk 500ml,6,Amul Cow Milk,Amul,1 ltr,78,,,20 mins,no,yes,,s0076,
+blinkit,exact_item,amul taaza milk 500ml,7,Verka Double Toned Milk,Verka,500 ml,27,,,20 mins,no,yes,,s0077,Bought Earlier label; competitor brand shown at rank 7
+blinkit,exact_item,amul taaza milk 500ml,8,Verka Full Cream Milk,Verka,500 ml,36,,,20 mins,no,yes,,s0077,
+blinkit,exact_item,amul taaza milk 500ml,9,Verka Standard Toned Milk,Verka,500 ml,33,,,20 mins,no,yes,,s0077,
+blinkit,exact_item,amul taaza milk 500ml,10,Amul Lactose Free Milk,Amul,250 ml,26,,,20 mins,no,yes,,s0077,
+blinkit,exact_item,amul taaza milk 500ml,13,Country Delight 25g High Protein Milk,Country Delight,450 ml,57,60,5% off MRP,20 mins,no,yes,,s0078,protein/functional milk and paneer mixed into milk results
+blinkit,exact_item,amull milk,1,Country Delight Buffalo Fresh Milk,Country Delight,450 ml,59,,,,unknown,yes,,s0090,typo auto-corrected to 'amul milk' (shown as Showing results for); first result is non-Amul
+blinkit,exact_item,amull milk,2,Amul Moti Toned Milk,Amul,450 ml,33,,,,,,,s0090,
+blinkit,exact_item,amull milk,3,Amul Gold Full Cream Milk,Amul,500 ml,36,,,,,,,s0090,
+amazon_now,exact_item,amul taaza milk 500ml,1,Verka Shakti Standard Fresh Milk,Verka,500 ml,33,,,,no,yes,3.7 (184),s0093,only 500ml milk in top results; query not rewritten
+amazon_now,exact_item,amul taaza milk 500ml,2,Amul Masti Dahi Pouch,Amul,380 g,35,,,,,,3.9 (3.4k),s0093,"curd, not milk: brand-keyword match"
+amazon_now,exact_item,amul taaza milk 500ml,3,Amul Kool Badam Flavoured Milk,Amul,180 ml,25,,,,,,3.6 (1.1k),s0093,
+amazon_now,exact_item,amul taaza milk 500ml,4,Amul Kool Elaichi Flavoured Milk,Amul,180 ml,25,,,,,,4.2 (850),s0093,
+amazon_now,exact_item,amul taaza milk 500ml,5,Country Delight Pasteurised Cow Milk,Country Delight,450 ml,37,48,23% off,,,,3.3 (397),s0094,
+amazon_now,exact_item,amul taaza milk 500ml,6,Milky Mist Toned Milk,Milky Mist,1 L,95,,,,,,4.0 (115),s0094,
+amazon_now,exact_item,amul taaza milk 500ml,7,Dabur Hommade Coconut Milk,Dabur,200 ml,80,89,10% off,,,,4.3 (4.7k),s0095,non-dairy
+amazon_now,exact_item,amul taaza milk 500ml,8,Amul Lassi Tetra Pack,Amul,200 ml,20,,,,,,4.1 (2.2k),s0095,"drink, not milk"
+amazon_now,exact_item,amul taaza milk 500ml,10,Amul Vanilla Gold Ice Cream,Amul,tub,,,,,,,3.8 (463),s0095,Amul Taaza and Amul Gold milk absent from results
+amazon_now,exact_item,amull milk,1,Country Delight Pasteurised Cow Milk,Country Delight,450 ml,37,48,23% off,,,,,s0100,typo corrected to 'amul milk' with visible 'Search instead for amull milk' link; Brands filter appears
+amazon_now,exact_item,amull milk,2,Country Delight Pasteurised Buffalo Milk,Country Delight,450 ml,54,62,13% off,,,,,s0100,
+amazon_now,exact_item,amull milk,3,Amul Kool Badam Flavoured Milk,Amul,180 ml,25,,,,,,,s0100,
+amazon_now,need_based,cold and cough,1,Dabur Honitus Hot Sip Granules,Dabur,"Pack of 30, 4g each",288,360,20% off,,yes,,4.4 (14.2k),s0103,sponsored first slot; same product appears again at rank 3 unsponsored
+amazon_now,need_based,cold and cough,2,Vicks Cough Drops Double Power (Warming Ginger),Vicks,25 pcs,47,50,6% off,,no,,4.2 (764),s0103,
+amazon_now,need_based,cold and cough,3,Dabur Honitus Hot Sip Granules,Dabur,Pack of 30,288,360,,,no,,4.4 (14.2k),s0103,duplicate of rank 1
+amazon_now,need_based,cold and cough,4,Vicks Dry + Wet Cough Syrup,Vicks,100 ml,99,121,18% off,,no,,3.8 (219),s0104,
+amazon_now,need_based,cold and cough,5,Vicks VapoRub Xtra Strong,Vicks,50 ml,201,229,12% off,,yes,,4.5 (1.9k),s0104,
+amazon_now,need_based,cold and cough,6,Vicks Cough Drop Double Power (Cooling Menthol),Vicks,25 pcs,47,50,,,no,,4.3 (520),s0104,
+amazon_now,need_based,cold and cough,7,Vicks Vaporub Classic,Vicks,50 ml,139,199,30% off,,no,,4.4 (5.4k),s0105,
+amazon_now,need_based,cold and cough,8,Vicks Inhaler,Vicks,2 pcs,109,129,16% off,,,,4.2 (1.5k),s0105,
+amazon_now,need_based,cold and cough,9,Wellbeing Nutrition Melts Throat Relief,Wellbeing,30 strips,581,649,10% off,,yes,,4.3 (415),s0105,premium supplement; sponsored
+amazon_now,need_based,cold and cough,11,Vicks VapoRub,Vicks,105 ml,268,349,23% off,,,,4.4 (1.7k),s0106,
+amazon_now,need_based,cold and cough,12,Hoop Herbal Inhaler,Hoop,15 g,410,412,,,,,4.2 (553),s0106,
+blinkit,need_based,cold and cough,1,Vicks VapoRub Chest Rub & Balm (Cough & Blocked Nose),Vicks,50 ml,160,199,Price Drop,25 mins,yes,yes,"32,811",s0108,Ad label on card
+blinkit,need_based,cold and cough,2,Honitus Cough Syrup,Dabur,100 ml,99,130,Price Drop,25 mins,,yes,"22,451",s0108,4 left cue
+blinkit,need_based,cold and cough,3,Yogi Kanthika Cough Tablets,Yogi,140 tabs,100,,,25 mins,,,"6,763",s0108,ayurvedic; 3 left
+blinkit,need_based,cold and cough,4,Himalaya Koflet Lozenges for Sore Throat,Himalaya,60 g,36,40,10% off MRP,25 mins,,,"7,277",s0109,
+blinkit,need_based,cold and cough,5,Vicks Vaporub Xtra Strong Chest Rub & Balm,Vicks,25 ml,120,128,Lowest in 30 days,25 mins,yes,,"9,137",s0109,Ad label
+blinkit,need_based,cold and cough,6,Ozomax Balsam 3 in 1 Steamer Vaporizer,Ozomax,1 pc,315,480,165 off,25 mins,,,"11,141",s0109,"device, need-based adjacent"
+blinkit,need_based,cold and cough,7,Romsons Kare Kids N95 Mask,Romsons,1 pc,43,53,18% off MRP,25 mins,,,"1,045",s0110,masks surfaced for cold
+blinkit,need_based,cold and cough,8,Vicks Dry+Wet 2 in 1 Fast Relief Cough Syrup,Vicks,100 ml,99,121,18% off MRP,25 mins,,,"12,666",s0110,
+blinkit,need_based,cold and cough,9,Hamdard Sualin Cold & Cough Tablets,Hamdard,60 tabs,75,,,25 mins,,,"6,957",s0110,
+blinkit,need_based,cold and cough,10,Vicks Orange Menthol Medicated Throat Lozenges,Vicks,16 tabs,60,,,25 mins,,,"8,479",s0110,
+blinkit,need_based,cold and cough,11,Dr Trust Home Spa Steam Inhaler Vaporizer,Dr Trust,1 unit,1099,2000,,25 mins,,,816,s0110,
+blinkit,need_based,cold and cough,14,Himalaya Koflet Cough Syrup,Himalaya,100 ml,103,117,11% off MRP,25 mins,,,"10,479",s0111,
+blinkit,need_based,cold and cough,15,Vicks Cough Drops Double Power Ginger,Vicks,25 pcs,50,,,25 mins,,,"24,883",s0111,
+blinkit,non_grocery,type c fast charger,1,Nu Republic All in One 6A Charging Adapter with Cable Type-C to Type-C,Nu Republic,30 W,499,1299,,15 mins,,,"8,700",s0219,"wattage chip, amperage tag 6A, 4 left"
+blinkit,non_grocery,type c fast charger,2,Tecsox 30W Fast Type-C Charger (White),Tecsox,30 W,299,1999,Price Drop,11 mins,,,"1,028",s0219,
+blinkit,non_grocery,type c fast charger,3,Ambrane Type C Boosted Speed Adapter Black,Ambrane,20 W,331,999,,11 mins,,,"3,643",s0219,2 left
+blinkit,non_grocery,type c fast charger,4,Nu Republic Cybotron Superfast GaN charger with Cable,Nu Republic,65 W,1299,3999,,15 mins,,,"1,055",s0220,
+blinkit,non_grocery,type c fast charger,5,Portronics Adapto Fast Charging Adapter Type C,Portronics,20 W,301,1499,Price Drop,15 mins,,,"6,038",s0220,
+blinkit,non_grocery,type c fast charger,7,boAt GaN Type-C Fast Charging Adapter,boAt,25 W,449,2199,Price Drop,11 mins,,,"4,713",s0221,
+blinkit,non_grocery,type c fast charger,8,URBN Fast Charging GaN charger,URBN,25 W,589,2499,,11 mins,,,n/a,s0221,"results carry W chip, A tag, price drop, MRP, N left cues"
+amazon_now,non_grocery,type c fast charger,1,Kratos 65W Fast Charger Adapter - White (with USB-A to Type C cable),Kratos,1 set (2 pcs),599,1999,70% off,,yes,,3.6 (1.8k),s0224,
+amazon_now,non_grocery,type c fast charger,2,Portronics Adapto 45 22.5W Type-C Adapter,Portronics,1 unit,349,999,65% off,,,,3.8 (8.2k),s0224,Great Indian Festival tag
+amazon_now,non_grocery,type c fast charger,3,Portronics Adapto 20 Type C 20W Adapter,Portronics,1 unit,301,1499,80% off,,,,4.1 (16.1k),s0225,Great Indian Festival tag
+amazon_now,non_grocery,type c fast charger,5,Ambrane 20W Dual Port Wall Charger - Black,Ambrane,1 unit,399,1299,69% off,,yes,,3.9 (1.5k),s0225,
+amazon_now,non_grocery,type c fast charger,7,Ambrane 25W GaN Type-C Charger - White,Ambrane,1 unit,349,,,,,,4.0 (420),s0226,Fast Charging tag; no wattage chips or amperage
+amazon_now,non_grocery,type c fast charger,8,Hammer 60W Type C To Type C Braided Charging Cable,Hammer,1 unit,99,399,75% off,,,,4.2 (684),s0226,cable shown inside charger results
+amazon_store,non_grocery,type c fast charger,1,boAt 67W GaN Laptop Charger,boAt,67 W,2199,3499,,,yes,,4.3 (368),s0229,"Sponsored brand carousel: Multi-port GaN chargers, 'Top 10 best-selling brand'"
+amazon_store,non_grocery,type c fast charger,2,boAt 45W GaN Charger USB Type-C,boAt,45 W,1399,2999,,,yes,,4.2 (302),s0229,
+amazon_store,non_grocery,type c fast charger,3,Vivo 44W Type C Flash Charger with 3.3ft cable,Vivo,44 W,489,1999,76% off,"FREE delivery Sat, 7 Nov (Prime)",yes,,n/a,s0230,400+ bought in past month; Buy 2 items get 10% off
+amazon_store,non_grocery,type c fast charger,4,Ambrane Original 25W Charger Adapter Type C to C Cable,Ambrane,25 W,599,1399,57% off,"FREE delivery Thu, 12 Nov",yes,,4.2 (469),s0230,
+amazon_store,non_grocery,type c fast charger,5,68W TurboPower Type C Fast Charger Adapter 1M,n/a,68 W,659,2990,78% off,"FREE delivery Sat, 7 Nov (Prime)",,,4.6 (10.3k),s0231,1K+ bought in past month
+amazon_store,non_grocery,type c fast charger,6,Samsung Original 25W USB Type-C Travel Adaptor without cable,Samsung,25 W,533,1699,69% off,,,,4.4 (24.7k),s0231,Best seller; Top Reviewed for Charging speed; 40K+ bought in past month

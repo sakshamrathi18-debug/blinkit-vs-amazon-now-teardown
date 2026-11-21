@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+.DS_Store
+# raw captures show name, address and order history: keep local
+data/screens/
+data/dumps/
+data/text/
+data/contact_sheets/
+data/history_to_clean.md
+analysis/pii_patterns.txt
+STATE.md

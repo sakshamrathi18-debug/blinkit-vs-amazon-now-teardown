@@ -1,0 +1,268 @@
+id,timestamp,app,scenario,step,screen,via,signifies,note,source,privacy_check,dump_status,png,xml,text
+s0001,2026-11-04T18:51:30,blinkit,livecheck,1,blinkit home (cold open),force-stop + launch,,am start TotalTime=500ms,uiautomator+screenshot,concurrent,ok,screens/s0001.png,dumps/s0001.xml,text/s0001.txt
+s0002,2026-11-04T18:51:59,amazon,livecheck,1,amazon home (cold open),force-stop + launch,,am start TotalTime=1537ms,uiautomator+screenshot,concurrent,ok,screens/s0002.png,dumps/s0002.xml,text/s0002.txt
+s0003,2026-11-04T18:52:40,blinkit,livecheck,2,blinkit home (cold open),force-stop + launch,,am start TotalTime=520ms,uiautomator+screenshot,concurrent,ok,screens/s0003.png,dumps/s0003.xml,text/s0003.txt
+s0004,2026-11-04T18:52:57,amazon,livecheck,2,amazon home (cold open),force-stop + launch,DELETED: payment page showing saved bank account digits,,deleted,concurrent,ok,,,
+s0005,2026-11-04T18:53:26,amazon,livecheck,3,,,,after dismissing prime upsell; not counted,uiautomator+screenshot,concurrent,ok,screens/s0005.png,dumps/s0005.xml,text/s0005.txt
+s0006,2026-11-04T18:57:01,blinkit,livecheck,3,blinkit home (cold open),force-stop + launch,,am start TotalTime=435ms,uiautomator+screenshot,concurrent,ok,screens/s0006.png,dumps/s0006.xml,text/s0006.txt
+s0007,2026-11-04T18:57:16,amazon,livecheck,4,amazon home (cold open),force-stop + launch,,"am start TotalTime=1341ms; thin UI dump, OCR added",uiautomator+screenshot,concurrent,ok,screens/s0007.png,dumps/s0007.xml,text/s0007.txt
+s0008,2026-11-04T18:57:33,amazon,livecheck,5,Amazon home: Amazon Now promo popup on cold open,,Popup pushes Amazon Now cashback and zero handling/rain/surge fee before the user sees the home screen,"after popup settled; not counted; thin UI dump, OCR added",uiautomator+screenshot,concurrent,ok,screens/s0008.png,dumps/s0008.xml,text/s0008.txt
+s0009,2026-11-04T18:58:03,amazon,livecheck,6,,,,popup dismissed; not counted,uiautomator+screenshot,concurrent,ok,screens/s0009.png,dumps/s0009.xml,text/s0009.txt
+s0010,2026-11-04T18:58:31,blinkit,cold_open,1,"Blinkit home, cold open 1 (first screen)",force-stop + launch,,am start TotalTime=455ms,uiautomator+screenshot,concurrent,ok,screens/s0010.png,dumps/s0010.xml,text/s0010.txt
+s0011,2026-11-04T18:58:36,blinkit,cold_open,2,Blinkit home scroll (cold open 1),scroll up #1,,,uiautomator+screenshot,concurrent,ok,screens/s0011.png,dumps/s0011.xml,text/s0011.txt
+s0012,2026-11-04T18:58:40,blinkit,cold_open,3,Blinkit home scroll (cold open 1),scroll up #2,,,uiautomator+screenshot,concurrent,ok,screens/s0012.png,dumps/s0012.xml,text/s0012.txt
+s0013,2026-11-04T18:58:45,blinkit,cold_open,4,Blinkit home scroll (cold open 1),scroll up #3,,,uiautomator+screenshot,concurrent,ok,screens/s0013.png,dumps/s0013.xml,text/s0013.txt
+s0014,2026-11-04T18:58:49,blinkit,cold_open,5,Blinkit home scroll (cold open 1),scroll up #4,,,uiautomator+screenshot,concurrent,ok,screens/s0014.png,dumps/s0014.xml,text/s0014.txt
+s0015,2026-11-04T18:58:54,blinkit,cold_open,6,Blinkit home scroll (cold open 1),scroll up #5,,,uiautomator+screenshot,concurrent,ok,screens/s0015.png,dumps/s0015.xml,text/s0015.txt
+s0016,2026-11-04T18:58:58,blinkit,cold_open,7,Blinkit home scroll (cold open 1),scroll up #6,,,uiautomator+screenshot,concurrent,ok,screens/s0016.png,dumps/s0016.xml,text/s0016.txt
+s0017,2026-11-04T18:59:03,blinkit,cold_open,8,Blinkit home scroll (cold open 1),scroll up #7,,,uiautomator+screenshot,concurrent,ok,screens/s0017.png,dumps/s0017.xml,text/s0017.txt
+s0018,2026-11-04T18:59:07,blinkit,cold_open,9,Blinkit home scroll (cold open 1),scroll up #8,,,uiautomator+screenshot,concurrent,ok,screens/s0018.png,dumps/s0018.xml,text/s0018.txt
+s0019,2026-11-04T18:59:12,blinkit,cold_open,10,Blinkit home scroll (cold open 1),scroll up #9,,,uiautomator+screenshot,concurrent,ok,screens/s0019.png,dumps/s0019.xml,text/s0019.txt
+s0020,2026-11-04T18:59:25,blinkit,cold_open,11,"Blinkit home, cold open 2 (first screen)",force-stop + launch,,am start TotalTime=528ms,uiautomator+screenshot,concurrent,ok,screens/s0020.png,dumps/s0020.xml,text/s0020.txt
+s0021,2026-11-04T18:59:39,blinkit,cold_open,12,"Blinkit home, cold open 3 (first screen)",force-stop + launch,,am start TotalTime=500ms,uiautomator+screenshot,concurrent,ok,screens/s0021.png,dumps/s0021.xml,text/s0021.txt
+s0022,2026-11-04T19:00:29,amazon,cold_open,1,Amazon home: Great Indian Festival popup on cold open 1,force-stop + launch,Full-screen sale popup with Prime-only cashback covers the home screen before the user sees anything,"am start TotalTime=1321ms; thin UI dump, OCR added",uiautomator+screenshot,concurrent,ok,screens/s0022.png,dumps/s0022.xml,text/s0022.txt
+s0023,2026-11-04T19:00:53,amazon,cold_open,2,Amazon home after popup closed (cold open 1),,,,uiautomator+screenshot,concurrent,ok,screens/s0023.png,dumps/s0023.xml,text/s0023.txt
+s0024,2026-11-04T19:00:58,amazon,cold_open,3,Amazon home scroll (cold open 1),scroll up #1,,,uiautomator+screenshot,concurrent,ok,screens/s0024.png,dumps/s0024.xml,text/s0024.txt
+s0025,2026-11-04T19:01:03,amazon,cold_open,4,Amazon home scroll (cold open 1),scroll up #2,,,uiautomator+screenshot,concurrent,ok,screens/s0025.png,dumps/s0025.xml,text/s0025.txt
+s0026,2026-11-04T19:01:08,amazon,cold_open,5,Amazon home scroll (cold open 1),scroll up #3,,,uiautomator+screenshot,concurrent,ok,screens/s0026.png,dumps/s0026.xml,text/s0026.txt
+s0027,2026-11-04T19:01:13,amazon,cold_open,6,Amazon home scroll (cold open 1),scroll up #4,,,uiautomator+screenshot,concurrent,ok,screens/s0027.png,dumps/s0027.xml,text/s0027.txt
+s0028,2026-11-04T19:01:18,amazon,cold_open,7,Amazon home scroll (cold open 1),scroll up #5,,,uiautomator+screenshot,concurrent,ok,screens/s0028.png,dumps/s0028.xml,text/s0028.txt
+s0029,2026-11-04T19:01:23,amazon,cold_open,8,Amazon home scroll (cold open 1),scroll up #6,,,uiautomator+screenshot,concurrent,ok,screens/s0029.png,dumps/s0029.xml,text/s0029.txt
+s0030,2026-11-04T19:01:29,amazon,cold_open,9,Amazon home scroll (cold open 1),scroll up #7,,,uiautomator+screenshot,concurrent,ok,screens/s0030.png,dumps/s0030.xml,text/s0030.txt
+s0031,2026-11-04T19:01:35,amazon,cold_open,10,Amazon home scroll (cold open 1),scroll up #8,,,uiautomator+screenshot,concurrent,ok,screens/s0031.png,dumps/s0031.xml,text/s0031.txt
+s0032,2026-11-04T19:01:41,amazon,cold_open,11,Amazon home scroll (cold open 1),scroll up #9,,,uiautomator+screenshot,concurrent,ok,screens/s0032.png,dumps/s0032.xml,text/s0032.txt
+s0033,2026-11-04T19:01:56,amazon,cold_open,12,"Amazon home, cold open 2 (first screen)",force-stop + launch,,am start TotalTime=1320ms,uiautomator+screenshot,concurrent,ok,screens/s0033.png,dumps/s0033.xml,text/s0033.txt
+s0034,2026-11-04T19:02:11,amazon,cold_open,13,"Amazon home, cold open 3 (first screen)",force-stop + launch,,am start TotalTime=1525ms,uiautomator+screenshot,concurrent,ok,screens/s0034.png,dumps/s0034.xml,text/s0034.txt
+s0035,2026-11-04T19:02:31,amazon,cold_open,14,"Amazon home, cold open 4 (before opening Now)",force-stop + launch,,am start TotalTime=1383ms,uiautomator+screenshot,concurrent,ok,screens/s0035.png,dumps/s0035.xml,text/s0035.txt
+s0036,2026-11-04T19:03:03,amazon,cold_open,15,Amazon home state check,,,state check,uiautomator+screenshot,concurrent,ok,screens/s0036.png,dumps/s0036.xml,text/s0036.txt
+s0037,2026-11-04T19:04:07,amazon,cold_open,16,Amazon Now landing: Diwali Ready cashback popup,tap Now tile on Amazon home,"Amazon Now opens behind a promo popup: cashback every time, co-branded Tata Sampann, Shop Now CTA","thin UI dump, OCR added",uiautomator+screenshot,concurrent,ok,screens/s0037.png,dumps/s0037.xml,text/s0037.txt
+s0038,2026-11-04T19:04:28,amazon,cold_open,17,"Amazon Now home (first screen, popup closed)",close popup,,,uiautomator+screenshot,concurrent,ok,screens/s0038.png,dumps/s0038.xml,text/s0038.txt
+s0039,2026-11-04T19:04:37,amazon,cold_open,18,Amazon Now home scroll,scroll up #1,,,uiautomator+screenshot,concurrent,ok,screens/s0039.png,dumps/s0039.xml,text/s0039.txt
+s0040,2026-11-04T19:04:42,amazon,cold_open,19,Amazon Now home scroll,scroll up #2,,,uiautomator+screenshot,concurrent,ok,screens/s0040.png,dumps/s0040.xml,text/s0040.txt
+s0041,2026-11-04T19:04:47,amazon,cold_open,20,Amazon Now home scroll,scroll up #3,,,uiautomator+screenshot,concurrent,ok,screens/s0041.png,dumps/s0041.xml,text/s0041.txt
+s0042,2026-11-04T19:04:52,amazon,cold_open,21,Amazon Now home scroll,scroll up #4,,,uiautomator+screenshot,concurrent,ok,screens/s0042.png,dumps/s0042.xml,text/s0042.txt
+s0043,2026-11-04T19:04:57,amazon,cold_open,22,Amazon Now home scroll,scroll up #5,,,uiautomator+screenshot,concurrent,ok,screens/s0043.png,dumps/s0043.xml,text/s0043.txt
+s0044,2026-11-04T19:05:04,amazon,cold_open,23,Amazon Now home scroll,scroll up #6,,,uiautomator+screenshot,concurrent,ok,screens/s0044.png,dumps/s0044.xml,text/s0044.txt
+s0045,2026-11-04T19:05:09,amazon,cold_open,24,Amazon Now home scroll,scroll up #7,,,uiautomator+screenshot,concurrent,ok,screens/s0045.png,dumps/s0045.xml,text/s0045.txt
+s0046,2026-11-04T19:05:15,amazon,cold_open,25,Amazon Now home scroll,scroll up #8,,,uiautomator+screenshot,concurrent,ok,screens/s0046.png,dumps/s0046.xml,text/s0046.txt
+s0047,2026-11-04T19:05:21,amazon,cold_open,26,Amazon Now home scroll,scroll up #9,,,uiautomator+screenshot,concurrent,ok,screens/s0047.png,dumps/s0047.xml,text/s0047.txt
+s0048,2026-11-04T19:06:06,blinkit,explorer,1,Blinkit home (explorer start),force-stop + launch,,am start TotalTime=534ms,uiautomator+screenshot,concurrent,ok,screens/s0048.png,dumps/s0048.xml,text/s0048.txt
+s0049,2026-11-04T19:06:28,blinkit,explorer,2,Blinkit top tile: Diwali decor listing,"tap hero tile (Lights, Diya & Diwali Decor)","Hero tile advertised Rangoli Stencil Rs109 but lands on Pixel lights; Rangoli sits lower in the left rail. Listing shows Trending/Price Drop badges, price, MRP, rating, units sold last week, ETA 21 mins",,uiautomator+screenshot,concurrent,ok,screens/s0049.png,dumps/s0049.xml,text/s0049.txt
+s0050,2026-11-04T19:06:52,blinkit,explorer,3,Blinkit after ADD (first item),tap ADD on top trending item,,,uiautomator+screenshot,concurrent,ok,screens/s0050.png,dumps/s0050.xml,text/s0050.txt
+s0051,2026-11-04T19:07:13,blinkit,explorer,4,Blinkit listing after un-wishlisting my mis-tap,,,undo of accidental wishlist tap; excluded from analysis,uiautomator+screenshot,concurrent,ok,screens/s0051.png,dumps/s0051.xml,text/s0051.txt
+s0052,2026-11-04T19:07:42,blinkit,explorer,5,dbg,,,debug,uiautomator+screenshot,concurrent,ok,screens/s0052.png,dumps/s0052.xml,text/s0052.txt
+s0053,2026-11-04T19:08:11,blinkit,explorer,6,Blinkit after ADD (Multicolour pixel light Rs129),tap ADD on 3rd item (plain ADD),,,uiautomator+screenshot,concurrent,ok,screens/s0053.png,dumps/s0053.xml,text/s0053.txt
+s0054,2026-11-04T19:08:29,blinkit,explorer,7,Blinkit cart (explorer),tap View cart,,,uiautomator+screenshot,concurrent,ok,screens/s0054.png,dumps/s0054.xml,text/s0054.txt
+s0055,2026-11-04T19:08:50,blinkit,explorer,8,Blinkit checkout scroll (explorer),scroll checkout up #1,,,uiautomator+screenshot,concurrent,ok,screens/s0055.png,dumps/s0055.xml,text/s0055.txt
+s0056,2026-11-04T19:08:55,blinkit,explorer,9,Blinkit checkout scroll (explorer),scroll checkout up #2,,,uiautomator+screenshot,concurrent,ok,screens/s0056.png,dumps/s0056.xml,text/s0056.txt
+s0057,2026-11-04T19:08:59,blinkit,explorer,10,Blinkit checkout scroll (explorer),scroll checkout up #3,,,uiautomator+screenshot,concurrent,ok,screens/s0057.png,dumps/s0057.xml,text/s0057.txt
+s0058,2026-11-04T19:09:27,blinkit,explorer,11,Blinkit after removing item,decrease quantity to 0,,,uiautomator+screenshot,concurrent,ok,screens/s0058.png,dumps/s0058.xml,text/s0058.txt
+s0059,2026-11-04T19:09:54,amazon,explorer,1,Amazon home (explorer start),force-stop + launch,,am start TotalTime=1327ms,uiautomator+screenshot,concurrent,ok,screens/s0059.png,dumps/s0059.xml,text/s0059.txt
+s0060,2026-11-04T19:10:16,amazon,explorer,2,Amazon Now landing (explorer),,,"thin UI dump, OCR added",uiautomator+screenshot,concurrent,ok,screens/s0060.png,dumps/s0060.xml,text/s0060.txt
+s0061,2026-11-04T19:10:28,amazon,explorer,3,Amazon Now home (explorer),close popup,,,uiautomator+screenshot,concurrent,ok,screens/s0061.png,dumps/s0061.xml,text/s0061.txt
+s0062,2026-11-04T19:10:51,amazon,explorer,4,Amazon Now hero banner destination,tap hero banner (Deals You'll Love),"Hero banner (Deals You'll Love, mixed products) lands on a brand-funded Beauty Store: Powered by Nivea, Pilgrim, Co-Powered by Cetaphil; category grid then Brands in focus",,uiautomator+screenshot,concurrent,ok,screens/s0062.png,dumps/s0062.xml,text/s0062.txt
+s0063,2026-11-04T19:11:05,amazon,explorer,5,Amazon Now Beauty Store scroll,scroll up #1,,,uiautomator+screenshot,concurrent,ok,screens/s0063.png,dumps/s0063.xml,text/s0063.txt
+s0064,2026-11-04T19:11:10,amazon,explorer,6,Amazon Now Beauty Store scroll,scroll up #2,,,uiautomator+screenshot,concurrent,ok,screens/s0064.png,dumps/s0064.xml,text/s0064.txt
+s0065,2026-11-04T19:11:15,amazon,explorer,7,Amazon Now Beauty Store scroll,scroll up #3,,,uiautomator+screenshot,concurrent,ok,screens/s0065.png,dumps/s0065.xml,text/s0065.txt
+s0066,2026-11-04T19:11:43,amazon,explorer,8,Amazon Now after + on Mars lip liner Rs69,tap + on item,,,uiautomator+screenshot,concurrent,ok,screens/s0066.png,dumps/s0066.xml,text/s0066.txt
+s0067,2026-11-04T19:12:04,amazon,explorer,9,Amazon Now after Proceed,tap Proceed,,,uiautomator+screenshot,concurrent,ok,screens/s0067.png,dumps/s0067.xml,text/s0067.txt
+s0068,2026-11-04T19:12:17,amazon,explorer,10,Amazon Now checkout scroll (explorer),scroll checkout up #1,,,uiautomator+screenshot,concurrent,ok,screens/s0068.png,dumps/s0068.xml,text/s0068.txt
+s0069,2026-11-04T19:12:21,amazon,explorer,11,Amazon Now checkout scroll (explorer),scroll checkout up #2,,,uiautomator+screenshot,concurrent,ok,screens/s0069.png,dumps/s0069.xml,text/s0069.txt
+s0070,2026-11-04T19:12:40,amazon,explorer,12,Amazon Now checkout scroll (explorer),scroll checkout (from y=1500) up #1,,,uiautomator+screenshot,concurrent,ok,screens/s0070.png,dumps/s0070.xml,text/s0070.txt
+s0071,2026-11-04T19:12:45,amazon,explorer,13,Amazon Now checkout scroll (explorer),scroll checkout (from y=1500) up #2,,,uiautomator+screenshot,concurrent,ok,screens/s0071.png,dumps/s0071.xml,text/s0071.txt
+s0072,2026-11-04T19:12:50,amazon,explorer,14,Amazon Now checkout scroll (explorer),scroll checkout (from y=1500) up #3,,,uiautomator+screenshot,concurrent,ok,screens/s0072.png,dumps/s0072.xml,text/s0072.txt
+s0073,2026-11-04T19:13:17,amazon,explorer,15,Amazon Now after removing item,decrease quantity to 0,,"thin UI dump, OCR added",uiautomator+screenshot,concurrent,ok,screens/s0073.png,dumps/s0073.xml,text/s0073.txt
+s0074,2026-11-04T19:13:37,blinkit,exact_item,1,Blinkit home (exact item start),force-stop + launch,,am start TotalTime=445ms,uiautomator+screenshot,concurrent,ok,screens/s0074.png,dumps/s0074.xml,text/s0074.txt
+s0075,2026-11-04T19:13:56,blinkit,exact_item,2,Blinkit search results: amul taaza milk 500ml,typed query,,,uiautomator+screenshot,concurrent,ok,screens/s0075.png,dumps/s0075.xml,text/s0075.txt
+s0076,2026-11-04T19:14:12,blinkit,exact_item,3,Blinkit search results (keyboard hidden): amul taaza milk 500ml,hide keyboard,,,uiautomator+screenshot,concurrent,ok,screens/s0076.png,dumps/s0076.xml,text/s0076.txt
+s0077,2026-11-04T19:14:19,blinkit,exact_item,4,Blinkit search results scroll,scroll up #1,,,uiautomator+screenshot,concurrent,ok,screens/s0077.png,dumps/s0077.xml,text/s0077.txt
+s0078,2026-11-04T19:14:25,blinkit,exact_item,5,Blinkit search results scroll,scroll up #2,,,uiautomator+screenshot,concurrent,ok,screens/s0078.png,dumps/s0078.xml,text/s0078.txt
+s0079,2026-11-04T19:14:58,blinkit,exact_item,6,Blinkit after ADD (Amul Gold 500ml),tap ADD on first result (500 ml pack),,,uiautomator+screenshot,concurrent,ok,screens/s0079.png,dumps/s0079.xml,text/s0079.txt
+s0080,2026-11-04T19:15:27,blinkit,exact_item,7,Blinkit after ADD (Amul Taaza 200ml Rs17),tap ADD pack of 1 in variant sheet,,,uiautomator+screenshot,concurrent,ok,screens/s0080.png,dumps/s0080.xml,text/s0080.txt
+s0081,2026-11-04T19:15:47,blinkit,exact_item,8,Blinkit search results with item in cart,,,,uiautomator+screenshot,concurrent,ok,screens/s0081.png,dumps/s0081.xml,text/s0081.txt
+s0082,2026-11-04T19:16:07,blinkit,exact_item,9,Blinkit checkout scroll (exact item),scroll up #1,,,uiautomator+screenshot,concurrent,ok,screens/s0082.png,dumps/s0082.xml,text/s0082.txt
+s0083,2026-11-04T19:16:13,blinkit,exact_item,10,Blinkit checkout scroll (exact item),scroll up #2,,,uiautomator+screenshot,concurrent,ok,screens/s0083.png,dumps/s0083.xml,text/s0083.txt
+s0084,2026-11-04T19:16:20,blinkit,exact_item,11,Blinkit checkout scroll (exact item),scroll up #3,,,uiautomator+screenshot,concurrent,ok,screens/s0084.png,dumps/s0084.xml,text/s0084.txt
+s0085,2026-11-04T19:16:41,blinkit,exact_item,12,Blinkit checkout (exact item),tap View cart pill,,,uiautomator+screenshot,concurrent,ok,screens/s0085.png,dumps/s0085.xml,text/s0085.txt
+s0086,2026-11-04T19:16:46,blinkit,exact_item,13,Blinkit checkout scroll (exact item),scroll up #1,,,uiautomator+screenshot,concurrent,ok,screens/s0086.png,dumps/s0086.xml,text/s0086.txt
+s0087,2026-11-04T19:16:51,blinkit,exact_item,14,Blinkit checkout scroll (exact item),scroll up #2,,,uiautomator+screenshot,concurrent,ok,screens/s0087.png,dumps/s0087.xml,text/s0087.txt
+s0088,2026-11-04T19:16:55,blinkit,exact_item,15,Blinkit checkout scroll (exact item),scroll up #3,,,uiautomator+screenshot,concurrent,ok,screens/s0088.png,dumps/s0088.xml,text/s0088.txt
+s0089,2026-11-04T19:17:39,blinkit,exact_item,16,Blinkit home (typo query start),force-stop + launch,,am start TotalTime=543ms,uiautomator+screenshot,concurrent,ok,screens/s0089.png,dumps/s0089.xml,text/s0089.txt
+s0090,2026-11-04T19:18:00,blinkit,exact_item,17,Blinkit results for typo: amull milk,typed query with typo,,,uiautomator+screenshot,concurrent,ok,screens/s0090.png,dumps/s0090.xml,text/s0090.txt
+s0091,2026-11-04T19:18:24,amazon,exact_item,1,Amazon home (exact item start),force-stop + launch,,am start TotalTime=1359ms,uiautomator+screenshot,concurrent,ok,screens/s0091.png,dumps/s0091.xml,text/s0091.txt
+s0092,2026-11-04T19:18:42,amazon,exact_item,2,Amazon Now landing (exact item),,,"thin UI dump, OCR added",uiautomator+screenshot,concurrent,ok,screens/s0092.png,dumps/s0092.xml,text/s0092.txt
+s0093,2026-11-04T19:19:08,amazon,exact_item,3,Amazon Now search results: amul taaza milk 500ml,typed query,,,uiautomator+screenshot,concurrent,ok,screens/s0093.png,dumps/s0093.xml,text/s0093.txt
+s0094,2026-11-04T19:19:20,amazon,exact_item,4,Amazon Now search results scroll,scroll up #1,,,uiautomator+screenshot,concurrent,ok,screens/s0094.png,dumps/s0094.xml,text/s0094.txt
+s0095,2026-11-04T19:19:25,amazon,exact_item,5,Amazon Now search results scroll,scroll up #2,,,uiautomator+screenshot,concurrent,ok,screens/s0095.png,dumps/s0095.xml,text/s0095.txt
+s0096,2026-11-04T19:19:55,amazon,exact_item,6,Amazon Now after + (Verka Shakti 500ml),tap + on first result,,,uiautomator+screenshot,concurrent,ok,screens/s0096.png,dumps/s0096.xml,text/s0096.txt
+s0097,2026-11-04T19:20:07,amazon,exact_item,7,Amazon Now checkout (exact item),tap Proceed,,,uiautomator+screenshot,concurrent,ok,screens/s0097.png,dumps/s0097.xml,text/s0097.txt
+s0098,2026-11-04T19:20:31,amazon,exact_item,8,Amazon Now cart after removal,,,"thin UI dump, OCR added",uiautomator+screenshot,concurrent,ok,screens/s0098.png,dumps/s0098.xml,text/s0098.txt
+s0099,2026-11-04T19:20:50,amazon,exact_item,9,Amazon home (typo query start),force-stop + launch,,am start TotalTime=1187ms,uiautomator+screenshot,concurrent,ok,screens/s0099.png,dumps/s0099.xml,text/s0099.txt
+s0100,2026-11-04T19:21:24,amazon,exact_item,10,Amazon Now results for typo: amull milk,typed query with typo,,,uiautomator+screenshot,concurrent,ok,screens/s0100.png,dumps/s0100.xml,text/s0100.txt
+s0101,2026-11-04T19:21:57,amazon,need_based,1,Amazon home (need_based start),force-stop + launch,,"am start TotalTime=1190ms; thin UI dump, OCR added",screenshot_only,none,failed,screens/s0101.png,,text/s0101.txt
+s0102,2026-11-04T19:22:15,amazon,need_based,2,Amazon Now landing (need_based),,,,uiautomator+screenshot,concurrent,ok,screens/s0102.png,dumps/s0102.xml,text/s0102.txt
+s0103,2026-11-04T19:22:28,amazon,need_based,3,Amazon Now results: cold and cough,typed query,,,uiautomator+screenshot,concurrent,ok,screens/s0103.png,dumps/s0103.xml,text/s0103.txt
+s0104,2026-11-04T19:22:33,amazon,need_based,4,Amazon Now results scroll (cold and cough),scroll up #1,,,uiautomator+screenshot,concurrent,ok,screens/s0104.png,dumps/s0104.xml,text/s0104.txt
+s0105,2026-11-04T19:22:38,amazon,need_based,5,Amazon Now results scroll (cold and cough),scroll up #2,,,uiautomator+screenshot,concurrent,ok,screens/s0105.png,dumps/s0105.xml,text/s0105.txt
+s0106,2026-11-04T19:22:42,amazon,need_based,6,Amazon Now results scroll (cold and cough),scroll up #3,,,uiautomator+screenshot,concurrent,ok,screens/s0106.png,dumps/s0106.xml,text/s0106.txt
+s0107,2026-11-04T19:23:16,blinkit,need_based,1,Blinkit home (need_based start),force-stop + launch,,am start TotalTime=523ms,uiautomator+screenshot,concurrent,ok,screens/s0107.png,dumps/s0107.xml,text/s0107.txt
+s0108,2026-11-04T19:23:44,blinkit,need_based,2,Blinkit results: cold and cough,typed query,,"thin UI dump, OCR added",screenshot_only,none,failed,screens/s0108.png,,text/s0108.txt
+s0109,2026-11-04T19:23:58,blinkit,need_based,3,Blinkit results scroll (cold and cough),scroll up #1,,"thin UI dump, OCR added",screenshot_only,none,failed,screens/s0109.png,,text/s0109.txt
+s0110,2026-11-04T19:24:04,blinkit,need_based,4,Blinkit results scroll (cold and cough),scroll up #2,,,uiautomator+screenshot,concurrent,ok,screens/s0110.png,dumps/s0110.xml,text/s0110.txt
+s0111,2026-11-04T19:24:10,blinkit,need_based,5,Blinkit results scroll (cold and cough),scroll up #3,,,uiautomator+screenshot,concurrent,ok,screens/s0111.png,dumps/s0111.xml,text/s0111.txt
+s0112,2026-11-04T19:24:56,blinkit,weekly_topup,1,Blinkit home (weekly_topup start),force-stop + launch,,am start TotalTime=478ms,uiautomator+screenshot,concurrent,ok,screens/s0112.png,dumps/s0112.xml,text/s0112.txt
+s0113,2026-11-04T19:25:27,blinkit,weekly_topup,2,Blinkit results: bread (after clearing milk),,,,uiautomator+screenshot,concurrent,ok,screens/s0113.png,dumps/s0113.xml,text/s0113.txt
+s0114,2026-11-04T19:25:54,blinkit,weekly_topup,3,Blinkit results: milk,typed query,,,uiautomator+screenshot,concurrent,ok,screens/s0114.png,dumps/s0114.xml,text/s0114.txt
+s0115,2026-11-04T19:26:08,blinkit,weekly_topup,4,Blinkit after ADD (milk),tap first ADD,,,uiautomator+screenshot,concurrent,ok,screens/s0115.png,dumps/s0115.xml,text/s0115.txt
+s0116,2026-11-04T19:26:26,blinkit,weekly_topup,5,Blinkit results: bread,typed query,,,uiautomator+screenshot,concurrent,ok,screens/s0116.png,dumps/s0116.xml,text/s0116.txt
+s0117,2026-11-04T19:26:37,blinkit,weekly_topup,6,Blinkit after ADD (bread),tap first ADD,,,uiautomator+screenshot,concurrent,ok,screens/s0117.png,dumps/s0117.xml,text/s0117.txt
+s0118,2026-11-04T19:26:44,blinkit,weekly_topup,7,Blinkit results: eggs,typed query,,,uiautomator+screenshot,concurrent,ok,screens/s0118.png,dumps/s0118.xml,text/s0118.txt
+s0119,2026-11-04T19:26:55,blinkit,weekly_topup,8,Blinkit after ADD (eggs),tap first ADD,,,uiautomator+screenshot,concurrent,ok,screens/s0119.png,dumps/s0119.xml,text/s0119.txt
+s0120,2026-11-04T19:27:04,blinkit,weekly_topup,9,Blinkit results: onions,typed query,,,uiautomator+screenshot,concurrent,ok,screens/s0120.png,dumps/s0120.xml,text/s0120.txt
+s0121,2026-11-04T19:27:14,blinkit,weekly_topup,10,Blinkit after ADD (onions),tap first ADD,,,uiautomator+screenshot,concurrent,ok,screens/s0121.png,dumps/s0121.xml,text/s0121.txt
+s0122,2026-11-04T19:27:22,blinkit,weekly_topup,11,Blinkit results: bananas,typed query,,,uiautomator+screenshot,concurrent,ok,screens/s0122.png,dumps/s0122.xml,text/s0122.txt
+s0123,2026-11-04T19:27:33,blinkit,weekly_topup,12,Blinkit after ADD (bananas),tap first ADD,,,uiautomator+screenshot,concurrent,ok,screens/s0123.png,dumps/s0123.xml,text/s0123.txt
+s0124,2026-11-04T19:27:40,blinkit,weekly_topup,13,Blinkit results: atta,typed query,,,uiautomator+screenshot,concurrent,ok,screens/s0124.png,dumps/s0124.xml,text/s0124.txt
+s0125,2026-11-04T19:27:51,blinkit,weekly_topup,14,Blinkit after ADD (atta),tap first ADD,,,uiautomator+screenshot,concurrent,ok,screens/s0125.png,dumps/s0125.xml,text/s0125.txt
+s0126,2026-11-04T19:28:16,blinkit,weekly_topup,15,Blinkit state after closing sheet,,,,uiautomator+screenshot,concurrent,ok,screens/s0126.png,dumps/s0126.xml,text/s0126.txt
+s0127,2026-11-04T19:28:44,blinkit,weekly_topup,16,Blinkit results: bread,typed query,,,uiautomator+screenshot,concurrent,ok,screens/s0127.png,dumps/s0127.xml,text/s0127.txt
+s0128,2026-11-04T19:28:58,blinkit,weekly_topup,17,Blinkit after ADD (bread),tap first plain ADD,,,uiautomator+screenshot,concurrent,ok,screens/s0128.png,dumps/s0128.xml,text/s0128.txt
+s0129,2026-11-04T19:29:23,blinkit,weekly_topup,18,Blinkit results: eggs,typed query,,"thin UI dump, OCR added",screenshot_only,none,failed,screens/s0129.png,,text/s0129.txt
+s0130,2026-11-04T19:29:51,blinkit,weekly_topup,19,Blinkit results: onions,typed query,,,uiautomator+screenshot,concurrent,ok,screens/s0130.png,dumps/s0130.xml,text/s0130.txt
+s0131,2026-11-04T19:30:13,blinkit,weekly_topup,20,Blinkit results: bananas,typed query,,,uiautomator+screenshot,concurrent,ok,screens/s0131.png,dumps/s0131.xml,text/s0131.txt
+s0132,2026-11-04T19:30:26,blinkit,weekly_topup,21,Blinkit after ADD (bananas),tap first plain ADD,,,uiautomator+screenshot,concurrent,ok,screens/s0132.png,dumps/s0132.xml,text/s0132.txt
+s0133,2026-11-04T19:30:43,blinkit,weekly_topup,22,Blinkit results: atta,typed query,,,uiautomator+screenshot,concurrent,ok,screens/s0133.png,dumps/s0133.xml,text/s0133.txt
+s0134,2026-11-04T19:30:57,blinkit,weekly_topup,23,Blinkit after ADD (atta),tap first plain ADD,,,uiautomator+screenshot,concurrent,ok,screens/s0134.png,dumps/s0134.xml,text/s0134.txt
+s0135,2026-11-04T19:31:21,blinkit,weekly_topup,24,Blinkit results: eggs,typed query,,,uiautomator+screenshot,concurrent,ok,screens/s0135.png,dumps/s0135.xml,text/s0135.txt
+s0136,2026-11-04T19:31:36,blinkit,weekly_topup,25,Blinkit after ADD (eggs),tap first plain ADD,,,uiautomator+screenshot,concurrent,ok,screens/s0136.png,dumps/s0136.xml,text/s0136.txt
+s0137,2026-11-04T19:31:52,blinkit,weekly_topup,26,Blinkit results: onions,typed query,,,uiautomator+screenshot,concurrent,ok,screens/s0137.png,dumps/s0137.xml,text/s0137.txt
+s0138,2026-11-04T19:32:07,blinkit,weekly_topup,27,Blinkit after ADD (onions),tap first plain ADD,,,uiautomator+screenshot,concurrent,ok,screens/s0138.png,dumps/s0138.xml,text/s0138.txt
+s0139,2026-11-04T19:32:26,blinkit,weekly_topup,28,Blinkit checkout (weekly top-up),tap View cart pill,,,uiautomator+screenshot,concurrent,ok,screens/s0139.png,dumps/s0139.xml,text/s0139.txt
+s0140,2026-11-04T19:32:31,blinkit,weekly_topup,29,Blinkit checkout scroll (weekly),scroll up #1,,,uiautomator+screenshot,concurrent,ok,screens/s0140.png,dumps/s0140.xml,text/s0140.txt
+s0141,2026-11-04T19:32:36,blinkit,weekly_topup,30,Blinkit checkout scroll (weekly),scroll up #2,,,uiautomator+screenshot,concurrent,ok,screens/s0141.png,dumps/s0141.xml,text/s0141.txt
+s0142,2026-11-04T19:32:41,blinkit,weekly_topup,31,Blinkit checkout scroll (weekly),scroll up #3,,,uiautomator+screenshot,concurrent,ok,screens/s0142.png,dumps/s0142.xml,text/s0142.txt
+s0143,2026-11-04T19:32:45,blinkit,weekly_topup,32,Blinkit checkout scroll (weekly),scroll up #4,,,uiautomator+screenshot,concurrent,ok,screens/s0143.png,dumps/s0143.xml,text/s0143.txt
+s0144,2026-11-04T19:34:10,blinkit,weekly_topup,33,Blinkit after emptying cart,,,,uiautomator+screenshot,concurrent,ok,screens/s0144.png,dumps/s0144.xml,text/s0144.txt
+s0145,2026-11-04T19:34:55,amazon,weekly_topup,1,Amazon home (weekly_topup start),force-stop + launch,,am start TotalTime=1178ms,uiautomator+screenshot,concurrent,ok,screens/s0145.png,dumps/s0145.xml,text/s0145.txt
+s0146,2026-11-04T19:35:12,amazon,weekly_topup,2,Amazon Now landing (weekly_topup),,,,uiautomator+screenshot,concurrent,ok,screens/s0146.png,dumps/s0146.xml,text/s0146.txt
+s0147,2026-11-04T19:35:29,amazon,weekly_topup,3,Amazon Now results: milk,typed query,,,uiautomator+screenshot,concurrent,ok,screens/s0147.png,dumps/s0147.xml,text/s0147.txt
+s0148,2026-11-04T19:35:39,amazon,weekly_topup,4,Amazon Now after + (milk),tap first +,,,uiautomator+screenshot,concurrent,ok,screens/s0148.png,dumps/s0148.xml,text/s0148.txt
+s0149,2026-11-04T19:35:52,amazon,weekly_topup,5,Amazon Now results: bread,typed query,,,uiautomator+screenshot,concurrent,ok,screens/s0149.png,dumps/s0149.xml,text/s0149.txt
+s0150,2026-11-04T19:36:02,amazon,weekly_topup,6,Amazon Now after + (bread),tap first +,,,uiautomator+screenshot,concurrent,ok,screens/s0150.png,dumps/s0150.xml,text/s0150.txt
+s0151,2026-11-04T19:36:16,amazon,weekly_topup,7,Amazon Now results: eggs,typed query,,,uiautomator+screenshot,concurrent,ok,screens/s0151.png,dumps/s0151.xml,text/s0151.txt
+s0152,2026-11-04T19:36:26,amazon,weekly_topup,8,Amazon Now after + (eggs),tap first +,,,uiautomator+screenshot,concurrent,ok,screens/s0152.png,dumps/s0152.xml,text/s0152.txt
+s0153,2026-11-04T19:36:39,amazon,weekly_topup,9,Amazon Now results: onions,typed query,,,uiautomator+screenshot,concurrent,ok,screens/s0153.png,dumps/s0153.xml,text/s0153.txt
+s0154,2026-11-04T19:36:49,amazon,weekly_topup,10,Amazon Now after + (onions),tap first +,,,uiautomator+screenshot,concurrent,ok,screens/s0154.png,dumps/s0154.xml,text/s0154.txt
+s0155,2026-11-04T19:37:02,amazon,weekly_topup,11,Amazon Now results: bananas,typed query,,,uiautomator+screenshot,concurrent,ok,screens/s0155.png,dumps/s0155.xml,text/s0155.txt
+s0156,2026-11-04T19:37:13,amazon,weekly_topup,12,Amazon Now after + (bananas),tap first +,,,uiautomator+screenshot,concurrent,ok,screens/s0156.png,dumps/s0156.xml,text/s0156.txt
+s0157,2026-11-04T19:37:26,amazon,weekly_topup,13,Amazon Now results: atta,typed query,,,uiautomator+screenshot,concurrent,ok,screens/s0157.png,dumps/s0157.xml,text/s0157.txt
+s0158,2026-11-04T19:37:36,amazon,weekly_topup,14,Amazon Now after + (atta),tap first +,,,uiautomator+screenshot,concurrent,ok,screens/s0158.png,dumps/s0158.xml,text/s0158.txt
+s0159,2026-11-04T19:37:56,amazon,weekly_topup,15,Amazon Now checkout (weekly top-up),tap Proceed,,,uiautomator+screenshot,concurrent,ok,screens/s0159.png,dumps/s0159.xml,text/s0159.txt
+s0160,2026-11-04T19:38:15,amazon,weekly_topup,16,Amazon Now checkout scroll (weekly),scroll up #1,,,uiautomator+screenshot,concurrent,ok,screens/s0160.png,dumps/s0160.xml,text/s0160.txt
+s0161,2026-11-04T19:38:20,amazon,weekly_topup,17,Amazon Now checkout scroll (weekly),scroll up #2,,,uiautomator+screenshot,concurrent,ok,screens/s0161.png,dumps/s0161.xml,text/s0161.txt
+s0162,2026-11-04T19:38:25,amazon,weekly_topup,18,Amazon Now checkout scroll (weekly),scroll up #3,,,uiautomator+screenshot,concurrent,ok,screens/s0162.png,dumps/s0162.xml,text/s0162.txt
+s0163,2026-11-04T19:38:29,amazon,weekly_topup,19,Amazon Now checkout scroll (weekly),scroll up #4,,,uiautomator+screenshot,concurrent,ok,screens/s0163.png,dumps/s0163.xml,text/s0163.txt
+s0164,2026-11-04T19:38:34,amazon,weekly_topup,20,Amazon Now checkout scroll (weekly),scroll up #5,,,uiautomator+screenshot,concurrent,ok,screens/s0164.png,dumps/s0164.xml,text/s0164.txt
+s0165,2026-11-04T19:39:57,amazon,weekly_topup,21,Amazon Now after emptying cart,,,"thin UI dump, OCR added",uiautomator+screenshot,concurrent,ok,screens/s0165.png,dumps/s0165.xml,text/s0165.txt
+s0166,2026-11-04T19:40:18,blinkit,occasion,1,Blinkit home (occasion start),force-stop + launch,,am start TotalTime=540ms,uiautomator+screenshot,concurrent,ok,screens/s0166.png,dumps/s0166.xml,text/s0166.txt
+s0167,2026-11-04T19:40:39,blinkit,occasion,2,Blinkit results: birthday cake,typed query,,,uiautomator+screenshot,concurrent,ok,screens/s0167.png,dumps/s0167.xml,text/s0167.txt
+s0168,2026-11-04T19:40:45,blinkit,occasion,3,Blinkit results scroll: birthday cake,scroll up #1,,,uiautomator+screenshot,concurrent,ok,screens/s0168.png,dumps/s0168.xml,text/s0168.txt
+s0169,2026-11-04T19:41:01,blinkit,occasion,4,Blinkit after ADD (birthday cake),tap first plain ADD,,,uiautomator+screenshot,concurrent,ok,screens/s0169.png,dumps/s0169.xml,text/s0169.txt
+s0170,2026-11-04T19:41:18,blinkit,occasion,5,Blinkit results: balloons,typed query,,,uiautomator+screenshot,concurrent,ok,screens/s0170.png,dumps/s0170.xml,text/s0170.txt
+s0171,2026-11-04T19:41:25,blinkit,occasion,6,Blinkit results scroll: balloons,scroll up #1,,,uiautomator+screenshot,concurrent,ok,screens/s0171.png,dumps/s0171.xml,text/s0171.txt
+s0172,2026-11-04T19:41:41,blinkit,occasion,7,Blinkit after ADD (balloons),tap first plain ADD,,,uiautomator+screenshot,concurrent,ok,screens/s0172.png,dumps/s0172.xml,text/s0172.txt
+s0173,2026-11-04T19:41:59,blinkit,occasion,8,Blinkit results: candles,typed query,,,uiautomator+screenshot,concurrent,ok,screens/s0173.png,dumps/s0173.xml,text/s0173.txt
+s0174,2026-11-04T19:42:07,blinkit,occasion,9,Blinkit results scroll: candles,scroll up #1,,,uiautomator+screenshot,concurrent,ok,screens/s0174.png,dumps/s0174.xml,text/s0174.txt
+s0175,2026-11-04T19:42:26,blinkit,occasion,10,Blinkit after ADD (candles),tap first plain ADD,,,uiautomator+screenshot,concurrent,ok,screens/s0175.png,dumps/s0175.xml,text/s0175.txt
+s0176,2026-11-04T19:42:44,blinkit,occasion,11,Blinkit results: chips,typed query,,,uiautomator+screenshot,concurrent,ok,screens/s0176.png,dumps/s0176.xml,text/s0176.txt
+s0177,2026-11-04T19:42:51,blinkit,occasion,12,Blinkit results scroll: chips,scroll up #1,,,uiautomator+screenshot,concurrent,ok,screens/s0177.png,dumps/s0177.xml,text/s0177.txt
+s0178,2026-11-04T19:43:24,blinkit,occasion,13,Blinkit after ADD (chips),tap first plain ADD,,"thin UI dump, OCR added",screenshot_only,none,failed,screens/s0178.png,,text/s0178.txt
+s0179,2026-11-04T19:44:04,blinkit,occasion,14,Blinkit checkout scroll (occasion),scroll up #1,,"thin UI dump, OCR added",screenshot_only,none,failed,screens/s0179.png,,text/s0179.txt
+s0180,2026-11-04T19:44:10,blinkit,occasion,15,Blinkit checkout scroll (occasion),scroll up #2,,,uiautomator+screenshot,concurrent,ok,screens/s0180.png,dumps/s0180.xml,text/s0180.txt
+s0181,2026-11-04T19:44:24,blinkit,occasion,16,Blinkit checkout scroll (occasion),scroll up #3,,"thin UI dump, OCR added",screenshot_only,none,failed,screens/s0181.png,,text/s0181.txt
+s0182,2026-11-04T19:44:38,blinkit,occasion,17,Blinkit checkout scroll (occasion),scroll up #4,,"thin UI dump, OCR added",screenshot_only,none,failed,screens/s0182.png,,text/s0182.txt
+s0183,2026-11-04T19:45:40,blinkit,occasion,18,Blinkit checkout scroll (occasion),scroll up #1,,"thin UI dump, OCR added",screenshot_only,none,failed,screens/s0183.png,,text/s0183.txt
+s0184,2026-11-04T19:45:54,blinkit,occasion,19,Blinkit checkout scroll (occasion),scroll up #2,,"thin UI dump, OCR added",screenshot_only,none,failed,screens/s0184.png,,text/s0184.txt
+s0185,2026-11-04T19:46:00,blinkit,occasion,20,Blinkit checkout scroll (occasion),scroll up #3,,,uiautomator+screenshot,concurrent,ok,screens/s0185.png,dumps/s0185.xml,text/s0185.txt
+s0186,2026-11-04T19:46:06,blinkit,occasion,21,Blinkit checkout scroll (occasion),scroll up #4,,,uiautomator+screenshot,concurrent,ok,screens/s0186.png,dumps/s0186.xml,text/s0186.txt
+s0187,2026-11-04T19:46:47,blinkit,occasion,22,Blinkit checkout (occasion),tap View cart pill,,,uiautomator+screenshot,concurrent,ok,screens/s0187.png,dumps/s0187.xml,text/s0187.txt
+s0188,2026-11-04T19:46:58,blinkit,occasion,23,Blinkit checkout scroll (occasion),scroll up #1,,,uiautomator+screenshot,concurrent,ok,screens/s0188.png,dumps/s0188.xml,text/s0188.txt
+s0189,2026-11-04T19:47:03,blinkit,occasion,24,Blinkit checkout scroll (occasion),scroll up #2,,,uiautomator+screenshot,concurrent,ok,screens/s0189.png,dumps/s0189.xml,text/s0189.txt
+s0190,2026-11-04T19:47:07,blinkit,occasion,25,Blinkit checkout scroll (occasion),scroll up #3,,,uiautomator+screenshot,concurrent,ok,screens/s0190.png,dumps/s0190.xml,text/s0190.txt
+s0191,2026-11-04T19:47:12,blinkit,occasion,26,Blinkit checkout scroll (occasion),scroll up #4,,,uiautomator+screenshot,concurrent,ok,screens/s0191.png,dumps/s0191.xml,text/s0191.txt
+s0192,2026-11-04T19:47:50,blinkit,occasion,27,Blinkit after emptying cart (occasion),,"DELETED: address picker showing other people's name, address and phone number",,deleted,concurrent,ok,,,
+s0193,2026-11-04T19:48:08,blinkit,occasion,28,Blinkit state after closing address sheet,,,,uiautomator+screenshot,concurrent,ok,screens/s0193.png,dumps/s0193.xml,text/s0193.txt
+s0194,2026-11-04T19:48:37,blinkit,occasion,29,Blinkit home after occasion run (cart check),force-stop + launch,,am start TotalTime=516ms,uiautomator+screenshot,concurrent,ok,screens/s0194.png,dumps/s0194.xml,text/s0194.txt
+s0195,2026-11-04T19:49:25,blinkit,occasion,30,Blinkit checkout (cleanup),View cart pill,,,uiautomator+screenshot,concurrent,ok,screens/s0195.png,dumps/s0195.xml,text/s0195.txt
+s0196,2026-11-04T19:49:50,blinkit,occasion,31,Blinkit checkout after cleanup loop,,DELETED: address picker showing other people's details,,deleted,concurrent,ok,,,
+s0197,2026-11-04T19:51:25,blinkit,occasion,32,Blinkit checkout after safe cleanup,,,,uiautomator+screenshot,concurrent,ok,screens/s0197.png,dumps/s0197.xml,text/s0197.txt
+s0198,2026-11-04T19:51:57,blinkit,occasion,33,Blinkit checkout state (cleanup 2),,DELETED: address picker showing other people's details,,deleted,concurrent,ok,,,
+s0199,2026-11-04T19:52:10,blinkit,occasion,34,Blinkit checkout state (analysis),,,,uiautomator+screenshot,concurrent,ok,screens/s0199.png,dumps/s0199.xml,text/s0199.txt
+s0200,2026-11-04T19:53:13,blinkit,occasion,35,Blinkit checkout state (cleanup 3),,,,uiautomator+screenshot,concurrent,ok,screens/s0200.png,dumps/s0200.xml,text/s0200.txt
+s0201,2026-11-04T19:53:32,blinkit,occasion,36,Blinkit checkout top (cleanup 3),,,,uiautomator+screenshot,concurrent,ok,screens/s0201.png,dumps/s0201.xml,text/s0201.txt
+s0202,2026-11-04T19:54:04,amazon,occasion,1,Amazon home (occasion start),force-stop + launch,,am start TotalTime=1356ms,uiautomator+screenshot,concurrent,ok,screens/s0202.png,dumps/s0202.xml,text/s0202.txt
+s0203,2026-11-04T19:54:21,amazon,occasion,2,Amazon Now landing (occasion),,,,uiautomator+screenshot,concurrent,ok,screens/s0203.png,dumps/s0203.xml,text/s0203.txt
+s0204,2026-11-04T19:54:34,amazon,occasion,3,Amazon Now results: birthday cake,typed query,,,uiautomator+screenshot,concurrent,ok,screens/s0204.png,dumps/s0204.xml,text/s0204.txt
+s0205,2026-11-04T19:54:39,amazon,occasion,4,Amazon Now results scroll: birthday cake,scroll up #1,,,uiautomator+screenshot,concurrent,ok,screens/s0205.png,dumps/s0205.xml,text/s0205.txt
+s0206,2026-11-04T19:54:51,amazon,occasion,5,Amazon Now after + (birthday cake),tap first +,,,uiautomator+screenshot,concurrent,ok,screens/s0206.png,dumps/s0206.xml,text/s0206.txt
+s0207,2026-11-04T19:55:04,amazon,occasion,6,Amazon Now results: balloons,typed query,,,uiautomator+screenshot,concurrent,ok,screens/s0207.png,dumps/s0207.xml,text/s0207.txt
+s0208,2026-11-04T19:55:09,amazon,occasion,7,Amazon Now results scroll: balloons,scroll up #1,,,uiautomator+screenshot,concurrent,ok,screens/s0208.png,dumps/s0208.xml,text/s0208.txt
+s0209,2026-11-04T19:55:21,amazon,occasion,8,Amazon Now after + (balloons),tap first +,,,uiautomator+screenshot,concurrent,ok,screens/s0209.png,dumps/s0209.xml,text/s0209.txt
+s0210,2026-11-04T19:55:34,amazon,occasion,9,Amazon Now results: candles,typed query,,,uiautomator+screenshot,concurrent,ok,screens/s0210.png,dumps/s0210.xml,text/s0210.txt
+s0211,2026-11-04T19:55:39,amazon,occasion,10,Amazon Now results scroll: candles,scroll up #1,,,uiautomator+screenshot,concurrent,ok,screens/s0211.png,dumps/s0211.xml,text/s0211.txt
+s0212,2026-11-04T19:55:50,amazon,occasion,11,Amazon Now after + (candles),tap first +,,,uiautomator+screenshot,concurrent,ok,screens/s0212.png,dumps/s0212.xml,text/s0212.txt
+s0213,2026-11-04T19:56:04,amazon,occasion,12,Amazon Now results: chips,typed query,,,uiautomator+screenshot,concurrent,ok,screens/s0213.png,dumps/s0213.xml,text/s0213.txt
+s0214,2026-11-04T19:56:08,amazon,occasion,13,Amazon Now results scroll: chips,scroll up #1,,,uiautomator+screenshot,concurrent,ok,screens/s0214.png,dumps/s0214.xml,text/s0214.txt
+s0215,2026-11-04T19:56:21,amazon,occasion,14,Amazon Now after + (chips),tap first +,,,uiautomator+screenshot,concurrent,ok,screens/s0215.png,dumps/s0215.xml,text/s0215.txt
+s0216,2026-11-04T19:56:49,amazon,occasion,15,Amazon Now checkout (occasion),tap Proceed,,,uiautomator+screenshot,concurrent,ok,screens/s0216.png,dumps/s0216.xml,text/s0216.txt
+s0217,2026-11-04T19:57:44,amazon,occasion,16,Amazon Now cart after cleanup (occasion),,,"thin UI dump, OCR added",uiautomator+screenshot,concurrent,ok,screens/s0217.png,dumps/s0217.xml,text/s0217.txt
+s0218,2026-11-04T19:58:05,blinkit,non_grocery,1,Blinkit home (non_grocery start),force-stop + launch,,am start TotalTime=428ms,uiautomator+screenshot,concurrent,ok,screens/s0218.png,dumps/s0218.xml,text/s0218.txt
+s0219,2026-11-04T19:58:27,blinkit,non_grocery,2,Blinkit results: type c fast charger,typed query,,,uiautomator+screenshot,concurrent,ok,screens/s0219.png,dumps/s0219.xml,text/s0219.txt
+s0220,2026-11-04T19:58:34,blinkit,non_grocery,3,Blinkit results scroll: type c fast charger,scroll up #1,,,uiautomator+screenshot,concurrent,ok,screens/s0220.png,dumps/s0220.xml,text/s0220.txt
+s0221,2026-11-04T19:58:39,blinkit,non_grocery,4,Blinkit results scroll: type c fast charger,scroll up #2,,,uiautomator+screenshot,concurrent,ok,screens/s0221.png,dumps/s0221.xml,text/s0221.txt
+s0222,2026-11-04T19:58:54,amazon,non_grocery,1,Amazon home (non_grocery start),force-stop + launch,,am start TotalTime=1417ms,uiautomator+screenshot,concurrent,ok,screens/s0222.png,dumps/s0222.xml,text/s0222.txt
+s0223,2026-11-04T19:59:11,amazon,non_grocery,2,Amazon Now landing (non_grocery),,,,uiautomator+screenshot,concurrent,ok,screens/s0223.png,dumps/s0223.xml,text/s0223.txt
+s0224,2026-11-04T19:59:25,amazon,non_grocery,3,Amazon Now results: type c fast charger,typed query,,,uiautomator+screenshot,concurrent,ok,screens/s0224.png,dumps/s0224.xml,text/s0224.txt
+s0225,2026-11-04T19:59:30,amazon,non_grocery,4,Amazon Now results scroll: type c fast charger,scroll up #1,,,uiautomator+screenshot,concurrent,ok,screens/s0225.png,dumps/s0225.xml,text/s0225.txt
+s0226,2026-11-04T19:59:34,amazon,non_grocery,5,Amazon Now results scroll: type c fast charger,scroll up #2,,,uiautomator+screenshot,concurrent,ok,screens/s0226.png,dumps/s0226.xml,text/s0226.txt
+s0227,2026-11-04T20:04:08,amazon,non_grocery,6,Amazon main store home (charger run start),force-stop + launch,"DELETED: mislabelled launch capture, wrong app state",,deleted,concurrent,ok,,,
+s0228,2026-11-04T20:04:35,amazon,non_grocery,7,Amazon main store home (charger run start),,,,uiautomator+screenshot,concurrent,ok,screens/s0228.png,dumps/s0228.xml,text/s0228.txt
+s0229,2026-11-04T20:05:02,amazon,non_grocery,8,Amazon main store results: type c fast charger,typed query on main store,,,uiautomator+screenshot,concurrent,ok,screens/s0229.png,dumps/s0229.xml,text/s0229.txt
+s0230,2026-11-04T20:05:08,amazon,non_grocery,9,Amazon main store results scroll: type c fast charger,scroll up #1,,,uiautomator+screenshot,concurrent,ok,screens/s0230.png,dumps/s0230.xml,text/s0230.txt
+s0231,2026-11-04T20:05:14,amazon,non_grocery,10,Amazon main store results scroll: type c fast charger,scroll up #2,,,uiautomator+screenshot,concurrent,ok,screens/s0231.png,dumps/s0231.xml,text/s0231.txt
+s0232,2026-11-04T20:07:59,amazon,store_price_check,1,Amazon store results: aashirvaad shudh chakki atta 5 kg,typed query on main store,,,uiautomator+screenshot,concurrent,ok,screens/s0232.png,dumps/s0232.xml,text/s0232.txt
+s0233,2026-11-04T20:08:23,amazon,store_price_check,2,Amazon store results: two brothers khapli flour 5 kg,typed query on main store,,,uiautomator+screenshot,concurrent,ok,screens/s0233.png,dumps/s0233.xml,text/s0233.txt
+s0234,2026-11-04T20:08:46,amazon,store_price_check,3,Amazon store results: britannia double choco chip pound cake,typed query on main store,,,uiautomator+screenshot,concurrent,ok,screens/s0234.png,dumps/s0234.xml,text/s0234.txt
+s0235,2026-11-04T20:09:10,amazon,store_price_check,4,Amazon store results: party propz led balloons multicolour,typed query on main store,,,uiautomator+screenshot,concurrent,ok,screens/s0235.png,dumps/s0235.xml,text/s0235.txt
+s0236,2026-11-04T20:10:04,amazon,store_price_check,5,Amazon store: aashirvaad shudh chakki atta 10 kg,scroll after typed query up #1,,,uiautomator+screenshot,concurrent,ok,screens/s0236.png,dumps/s0236.xml,text/s0236.txt
+s0237,2026-11-04T20:10:09,amazon,store_price_check,6,Amazon store: aashirvaad shudh chakki atta 10 kg,scroll after typed query up #2,,,uiautomator+screenshot,concurrent,ok,screens/s0237.png,dumps/s0237.xml,text/s0237.txt
+s0238,2026-11-04T20:10:33,amazon,store_price_check,7,Amazon store: aashirvaad shudh chakki atta 5 kg,scroll after typed query up #1,,,uiautomator+screenshot,concurrent,ok,screens/s0238.png,dumps/s0238.xml,text/s0238.txt
+s0239,2026-11-04T20:10:40,amazon,store_price_check,8,Amazon store: aashirvaad shudh chakki atta 5 kg,scroll after typed query up #2,,,uiautomator+screenshot,concurrent,ok,screens/s0239.png,dumps/s0239.xml,text/s0239.txt
+s0240,2026-11-04T20:11:05,amazon,store_price_check,9,Amazon store: two brothers khapli flour 5 kg,scroll after typed query up #1,,,uiautomator+screenshot,concurrent,ok,screens/s0240.png,dumps/s0240.xml,text/s0240.txt
+s0241,2026-11-04T20:11:11,amazon,store_price_check,10,Amazon store: two brothers khapli flour 5 kg,scroll after typed query up #2,,,uiautomator+screenshot,concurrent,ok,screens/s0241.png,dumps/s0241.xml,text/s0241.txt
+s0242,2026-11-04T20:11:37,amazon,store_price_check,11,Amazon store: britannia double choco chip pound cake,scroll after typed query up #1,,,uiautomator+screenshot,concurrent,ok,screens/s0242.png,dumps/s0242.xml,text/s0242.txt
+s0243,2026-11-04T20:11:43,amazon,store_price_check,12,Amazon store: britannia double choco chip pound cake,scroll after typed query up #2,,,uiautomator+screenshot,concurrent,ok,screens/s0243.png,dumps/s0243.xml,text/s0243.txt
+s0244,2026-11-04T20:12:08,amazon,store_price_check,13,Amazon store: party propz led balloons multicolour,scroll after typed query up #1,,,uiautomator+screenshot,concurrent,ok,screens/s0244.png,dumps/s0244.xml,text/s0244.txt
+s0245,2026-11-04T20:12:14,amazon,store_price_check,14,Amazon store: party propz led balloons multicolour,scroll after typed query up #2,,,uiautomator+screenshot,concurrent,ok,screens/s0245.png,dumps/s0245.xml,text/s0245.txt
+s0246,2026-11-04T20:12:41,amazon,store_price_check,15,Amazon store: propcon metallic party decoration balloons,scroll after typed query up #1,,,uiautomator+screenshot,concurrent,ok,screens/s0246.png,dumps/s0246.xml,text/s0246.txt
+s0247,2026-11-04T20:12:47,amazon,store_price_check,16,Amazon store: propcon metallic party decoration balloons,scroll after typed query up #2,,,uiautomator+screenshot,concurrent,ok,screens/s0247.png,dumps/s0247.xml,text/s0247.txt
+s0248,2026-11-04T20:13:18,amazon,store_price_check,17,Amazon store: iris berry pop taper jar candle,scroll after typed query up #1,,,uiautomator+screenshot,concurrent,ok,screens/s0248.png,dumps/s0248.xml,text/s0248.txt
+s0249,2026-11-04T20:13:24,amazon,store_price_check,18,Amazon store: iris berry pop taper jar candle,scroll after typed query up #2,,,uiautomator+screenshot,concurrent,ok,screens/s0249.png,dumps/s0249.xml,text/s0249.txt
+s0250,2026-11-04T20:13:49,amazon,store_price_check,19,Amazon store: unibic fruit n nut cake,scroll after typed query up #1,,,uiautomator+screenshot,concurrent,ok,screens/s0250.png,dumps/s0250.xml,text/s0250.txt
+s0251,2026-11-04T20:13:55,amazon,store_price_check,20,Amazon store: unibic fruit n nut cake,scroll after typed query up #2,,,uiautomator+screenshot,concurrent,ok,screens/s0251.png,dumps/s0251.xml,text/s0251.txt
+s0252,2026-11-04T20:14:20,amazon,store_price_check,21,Amazon store: ritebite max protein cheese jalapeno chips,scroll after typed query up #1,,,uiautomator+screenshot,concurrent,ok,screens/s0252.png,dumps/s0252.xml,text/s0252.txt
+s0253,2026-11-04T20:14:25,amazon,store_price_check,22,Amazon store: ritebite max protein cheese jalapeno chips,scroll after typed query up #2,,,uiautomator+screenshot,concurrent,ok,screens/s0253.png,dumps/s0253.xml,text/s0253.txt
+s0254,2026-11-04T20:14:50,amazon,store_price_check,23,Amazon store: red rock deli popped chips buldak,scroll after typed query up #1,,,uiautomator+screenshot,concurrent,ok,screens/s0254.png,dumps/s0254.xml,text/s0254.txt
+s0255,2026-11-04T20:14:56,amazon,store_price_check,24,Amazon store: red rock deli popped chips buldak,scroll after typed query up #2,,,uiautomator+screenshot,concurrent,ok,screens/s0255.png,dumps/s0255.xml,text/s0255.txt
+s0256,2026-11-04T20:15:20,amazon,store_price_check,25,Amazon store: mars edge of desire lip liner,scroll after typed query up #1,,,uiautomator+screenshot,concurrent,ok,screens/s0256.png,dumps/s0256.xml,text/s0256.txt
+s0257,2026-11-04T20:15:27,amazon,store_price_check,26,Amazon store: mars edge of desire lip liner,scroll after typed query up #2,,,uiautomator+screenshot,concurrent,ok,screens/s0257.png,dumps/s0257.xml,text/s0257.txt
+s0258,2026-11-04T20:15:51,amazon,store_price_check,27,Amazon store: vicks dry wet cough syrup 100 ml,scroll after typed query up #1,,,uiautomator+screenshot,concurrent,ok,screens/s0258.png,dumps/s0258.xml,text/s0258.txt
+s0259,2026-11-04T20:15:57,amazon,store_price_check,28,Amazon store: vicks dry wet cough syrup 100 ml,scroll after typed query up #2,,,uiautomator+screenshot,concurrent,ok,screens/s0259.png,dumps/s0259.xml,text/s0259.txt
+s0260,2026-11-04T20:16:26,amazon,store_price_check,29,Amazon store: vicks cough drops double power ginger,scroll after typed query up #1,,,uiautomator+screenshot,concurrent,ok,screens/s0260.png,dumps/s0260.xml,text/s0260.txt
+s0261,2026-11-04T20:16:32,amazon,store_price_check,30,Amazon store: vicks cough drops double power ginger,scroll after typed query up #2,,,uiautomator+screenshot,concurrent,ok,screens/s0261.png,dumps/s0261.xml,text/s0261.txt
+s0262,2026-11-04T20:16:56,amazon,store_price_check,31,Amazon store: portronics adapto 20w type c adapter,scroll after typed query up #1,,,uiautomator+screenshot,concurrent,ok,screens/s0262.png,dumps/s0262.xml,text/s0262.txt
+s0263,2026-11-04T20:17:02,amazon,store_price_check,32,Amazon store: portronics adapto 20w type c adapter,scroll after typed query up #2,,,uiautomator+screenshot,concurrent,ok,screens/s0263.png,dumps/s0263.xml,text/s0263.txt
+s0264,2026-11-04T20:17:27,amazon,store_price_check,33,Amazon store: waan multicolour 20 m pixel light,scroll after typed query up #1,,,uiautomator+screenshot,concurrent,ok,screens/s0264.png,dumps/s0264.xml,text/s0264.txt
+s0265,2026-11-04T20:17:32,amazon,store_price_check,34,Amazon store: waan multicolour 20 m pixel light,scroll after typed query up #2,,,uiautomator+screenshot,concurrent,ok,screens/s0265.png,dumps/s0265.xml,text/s0265.txt
+s0266,2026-11-04T20:17:56,amazon,store_price_check,35,Amazon store: vicks vaporub 50 ml,scroll after typed query up #1,,,uiautomator+screenshot,concurrent,ok,screens/s0266.png,dumps/s0266.xml,text/s0266.txt
+s0267,2026-11-04T20:18:02,amazon,store_price_check,36,Amazon store: vicks vaporub 50 ml,scroll after typed query up #2,,,uiautomator+screenshot,concurrent,ok,screens/s0267.png,dumps/s0267.xml,text/s0267.txt
